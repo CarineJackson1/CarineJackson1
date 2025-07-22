@@ -1,6 +1,6 @@
 # 👩‍💻 Carine Jackson – Cybersecurity & Data Analytics Specialist
 
-Bilingual (EN/JP) | Python | SQL | Cybersecurity | Network Defense | Localization | Data Visualization
+Bilingual (EN/JP) | Python | SQL | Cybersecurity | Network Defense | Localization | Data Visualization | Data Security
 
 ---
 
@@ -16,11 +16,11 @@ Detail-oriented Cybersecurity & Data Analytics graduate with a unique background
 
 ## 🛠️ Technical Skills
 
-**Cybersecurity:** Nmap, Wireshark, Burp Suite, Snort, Metasploit, Nessus, Security+ Fundamentals, VPN, IDS/IPS
+**Cybersecurity:** Nmap, Wireshark, Burp Suite, Metasploit, Nessus, Security+ Fundamentals, VPN, IDS/IPS
 
-**Data Analytics:** PostgreSQL, SQL, Pandas, Excel, Tableau, Power BI, Data Cleaning, Reporting, Chart.js
+**Data Analytics:** PostgreSQL, SQL, Excel, Tableau, Power BI, Data Cleaning, Reporting, Chart.js
 
-**Languages & Tools:** Python, Flask, Git, Bash, AWS (IAM, Security Groups), Linux (Kali, Ubuntu)
+**Languages & Tools:** Python, Git, Bash, AWS (IAM, Security Groups), Linux (Kali, Ubuntu)
 
 **Localization:** JLPT N2 (in progress), Technical Translation, Manual & NLP-Based QA, Bilingual Documentation
 
