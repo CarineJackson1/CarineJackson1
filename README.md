@@ -1,57 +1,101 @@
-# Hello, I'm Carine 
-<a href="https://www.linkedin.com/in/carinejackson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👩‍💻 Carine Jackson – Cybersecurity & Data Analytics Specialist
 
-[Brief Introduction - Remove this afterwards]
+Bilingual (EN/JP) | Python | SQL | Cybersecurity | Network Defense | Localization | Data Visualization
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+---
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 📜 About Me
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Detail-oriented Cybersecurity & Data Analytics graduate with a unique background in Japanese-English localization. I specialize in building secure, data-informed systems that align with modern compliance and threat intelligence standards. My goal is to bridge cybersecurity, data analytics, and international communication while supporting global teams.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+🔐 Currently completing: CompTIA Security+ | JLPT N2 (Advanced Japanese)
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SQL          | <a href="https://github.com/CarineJackson1/SQL">SQL Queries</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+🌏 Passionate about cybersecurity policy, secure system design, and bridging East-West tech teams.
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 🛠️ Technical Skills
 
-### E
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+**Cybersecurity:** Nmap, Wireshark, Burp Suite, Snort, Metasploit, Nessus, Security+ Fundamentals, VPN, IDS/IPS
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+**Data Analytics:** PostgreSQL, SQL, Pandas, Excel, Tableau, Power BI, Data Cleaning, Reporting, Chart.js
 
-## Certifications
+**Languages & Tools:** Python, Flask, Git, Bash, AWS (IAM, Security Groups), Linux (Kali, Ubuntu)
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+**Localization:** JLPT N2 (in progress), Technical Translation, Manual & NLP-Based QA, Bilingual Documentation
 
-</div>
+---
 
-## Projects
-- 
+## 🚀 Highlight Projects
 
+### 🔐 Nmap-Flask Cybersecurity Dashboard
+**Tech:** Python, Flask, Nmap, PostgreSQL, Chart.js  
+**Overview:** Built a full-stack app to automate network scans, log results, and visualize open ports. Includes user authentication and filterable scan data.
+- Added scan scheduling and report exporting
+- Role-based access control
+
+[🔗 GitHub Repo](#)
+
+---
+
+### 🎣 Phishing Simulation Project
+**Tech:** Email Forensics, Social Engineering
+**Overview:** Built and deployed a phishing campaign simulation to assess awareness. Measured open/click rates and compiled actionable reporting.
+
+---
+
+### 🛡 Incident Response Plan (SOC-based)
+**Overview:** Developed an IR plan for a fictional company based on NIST. Included detection, escalation, comms, and recovery protocols.
+
+---
+
+### 🌐 Network Security Design
+**Skills:** Subnetting, ACLs, VLAN segmentation, Firewalls
+**Overview:** Designed a Zero Trust-based architecture with multi-layered perimeter controls and internal segmentation.
+
+---
+
+### 📊 PostgreSQL Log Monitor & Analysis (Python)
+**Tech:** Python, psycopg2, pandas, matplotlib
+**Overview:** Monitored DB logins, parsed failed attempts, and visualized login trends using custom scripts.
+
+---
+
+### 🧠 Wireshark Threat Analysis
+**Tech:** Wireshark, PCAP
+**Overview:** Captured and analyzed suspicious traffic including ARP poisoning and DNS spoofing. Wrote report with threat classification.
+
+---
+
+### 🔐 Encryption and Hashing Toolkit
+**Tech:** Python (PyCryptodome, hashlib)
+**Overview:** Wrote scripts to demonstrate AES encryption, RSA key gen, and SHA-256 hashing.
+
+---
+
+## 📜 Certifications & Education
+- Cybersecurity Certificate – Coding Temple (2025)
+- Data Analytics Certificate – Break Into Tech (2024)
+- The Complete SQL Bootcamp – Udemy (2024)
+- JLPT N2 (in progress)
+
+---
+
+## 🔗 Links
+- GitHub: [github.com/CarineJackson1](https://github.com/CarineJackson1)
+- Tableau: [tableaupublic.com/profile/carinejackson](https://tableaupublic.com/profile/carinejackson)
+- LinkedIn: [linkedin.com/in/carinejackson](https://linkedin.com/in/carinejackson)
+- Resume: [Download PDF](#)
+
+---
+
+## 💬 Testimonials
+> “Carine’s attention to detail and ability to connect technical content across languages made her an invaluable asset to our team.”  
+— Project Manager, Bespoke AI Chatbot
+
+---
+
+## 🧩 Work in Progress
+- Flask login alerting system with email notification
+- Japanese threat feed parser
+- AWS Security review case study
