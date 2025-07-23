@@ -3,6 +3,7 @@
 Bilingual (EN/JP) | Python | SQL | Cybersecurity | Network Defense | Localization | Data Visualization | Data Security
 
 ---
+<img width="1536" height="1024" alt="ChatGPT Image Jul 22, 2025, 05_05_13 PM" src="https://github.com/user-attachments/assets/f1835329-730c-4943-ad1f-4b99fbff38ce" />
 
 ## 📜 About Me
 
