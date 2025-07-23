@@ -46,7 +46,7 @@ Developed a Python script to monitor and parse PostgreSQL logs, detect failed lo
 Completed a virtual internship as a Security Analyst via Forage. Designed a realistic phishing simulation and internal awareness campaign.  
 - Wrote a spoofed phishing email example  
 - Outlined campaign goals and employee response procedures  
-[🔗 GitHub Repo](https://github.com/CarineJackson1/mastercard-security-analyst-forage)  
+[🔗 GitHub Repo](https://github.com/CarineJackson1/mastercard-cybersecurity-virtual-experience)  
 [🔗 Program Info](https://www.theforage.com/virtual-internships/prototype/J7tqgq5PpYNB9Nb2A/Mastercard-Cybersecurity-Virtual-Experience-Program)
 
 ---
