@@ -40,20 +40,14 @@ Bilingual (EN/JP) | Python | SQL | Cybersecurity | Network Defense | Localizatio
 
 ---
 
-### 🎣 Phishing Simulation Project
-**Tech:** Email Forensics, Social Engineering
-**Overview:** Built and deployed a phishing campaign simulation to assess awareness. Measured open/click rates and compiled actionable reporting.
 
 ---
 
-### 🛡 Incident Response Plan (SOC-based)
-**Overview:** Developed an IR plan for a fictional company based on NIST. Included detection, escalation, comms, and recovery protocols.
+
 
 ---
 
-### 🌐 Network Security Design
-**Skills:** Subnetting, ACLs, VLAN segmentation, Firewalls
-**Overview:** Designed a Zero Trust-based architecture with multi-layered perimeter controls and internal segmentation.
+
 
 ---
 
@@ -65,9 +59,7 @@ Bilingual (EN/JP) | Python | SQL | Cybersecurity | Network Defense | Localizatio
 
 ---
 
-### 🧠 Wireshark Threat Analysis
-**Tech:** Wireshark, PCAP
-**Overview:** Captured and analyzed suspicious traffic, including ARP poisoning and DNS spoofing. Wrote a report with threat classification.
+
 
 ---
 
