@@ -61,6 +61,8 @@ Bilingual (EN/JP) | Python | SQL | Cybersecurity | Network Defense | Localizatio
 **Tech:** Python, psycopg2, pandas, matplotlib
 **Overview:** Monitored DB logins, parsed failed attempts, and visualized login trends using custom scripts.
 
+[🔗 GitHub Repo](#)
+
 ---
 
 ### 🧠 Wireshark Threat Analysis
