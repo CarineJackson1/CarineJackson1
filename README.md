@@ -24,61 +24,60 @@ Detail-oriented Cybersecurity & Data Analytics graduate with a unique background
 
 ---
 
-## 🚀 Personal Projects
+## 🚀 Projects
 
-### 📊 PostgreSQL Log Monitor & Analysis (Python)
-**Tech:** Python, psycopg2, pandas, matplotlib  
-Monitored DB logins, parsed failed attempts, and visualized login trends using custom scripts.  
-[🔗 GitHub Repo](#)
-
----
-
-### 🔐 Nmap-Flask Cybersecurity Dashboard
+### 🔐 Nmap-Flask Cybersecurity Dashboard  
 **Tech:** Python, Flask, Nmap, PostgreSQL, Chart.js  
-Built a full-stack app to automate network scans, log results, and visualize open ports. Includes user authentication and filterable scan data.
-- Added scan scheduling and report exporting
-- Role-based access control  
+Built a full-stack app to automate network scans, log results, and visualize open ports.  
+Features include user authentication, scan scheduling, report exporting, and role-based access control.  
 [🔗 GitHub Repo](#)
 
 ---
 
-### 🛡️ Mastercard Cybersecurity Virtual Experience
+### 📊 PostgreSQL Log Monitor & Analysis  
+**Tech:** Python, psycopg2, pandas, matplotlib  
+Developed a Python script to monitor and parse PostgreSQL logs, detect failed login attempts, and visualize activity trends over time.  
+[🔗 GitHub Repo](#)
+
+---
+
+### 📧 Mastercard Cybersecurity Virtual Experience  
 **Tech/Focus:** Phishing Simulation, Security Awareness, Social Engineering  
-Completed a virtual Security Analyst internship through Forage. Designed a realistic phishing email for internal awareness and mitigation training.
-- Crafted spoofed phishing email example
-- Developed communication plan for rollout and analysis
-- Emphasized human-centric cyber risk reduction  
-[🔗 Repo](https://github.com/CarineJackson1/mastercard-security-analyst-forage)  
+Completed a virtual internship as a Security Analyst via Forage. Designed a realistic phishing simulation and internal awareness campaign.  
+- Wrote a spoofed phishing email example  
+- Outlined campaign goals and employee response procedures  
+[🔗 GitHub Repo](https://github.com/CarineJackson1/mastercard-security-analyst-forage)  
 [🔗 Program Info](https://www.theforage.com/virtual-internships/prototype/J7tqgq5PpYNB9Nb2A/Mastercard-Cybersecurity-Virtual-Experience-Program)
 
 ---
 
-### 🤖 Oracle OCI AI Foundations Learning Path
+### 🤖 Oracle OCI AI Foundations Learning Path  
 **Tech/Focus:** AI, ML, Deep Learning, Generative AI, Oracle Cloud  
-Completed a beginner-friendly certification path covering foundational AI/ML concepts and cloud use cases.
-- Explored practical applications of AI in Oracle Cloud
-- Gained insight into LLMs and Generative AI ethics  
-[🔗 Repo](https://github.com/CarineJackson1/oci-ai-foundations)  
+Completed Oracle’s AI Foundations certification, covering key AI/ML concepts and their cloud-native applications.  
+Topics included neural networks, LLMs, and Generative AI ethics.  
+[🔗 GitHub Repo](https://github.com/CarineJackson1/oci-ai-foundations)  
 [🔗 Oracle Learn](https://learn.oracle.com/ols/home)
 
 ---
 
-## 📜 Certifications & Education
+## 🧾 Certifications & Education
 
-- Cybersecurity Certificate – Coding Temple (2025)  
-- Data Analytics Certificate – Break Into Tech (2024)  
-- **Oracle Cloud Infrastructure AI Foundations – Oracle (2025)**  
-- **Mastercard Cybersecurity Virtual Experience – Forage (2025)**  
-- The Complete SQL Bootcamp – Udemy (2024)  
-- JLPT N2 (in progress)
+| Certification                             | Organization         | Year  |
+|-------------------------------------------|----------------------|-------|
+| Cybersecurity Certificate                 | Coding Temple        | 2025  |
+| Data Analytics Certificate                | Break Into Tech      | 2024  |
+| OCI AI Foundations                        | Oracle               | 2025  |
+| Cybersecurity Virtual Experience Program  | Mastercard (Forage)  | 2025  |
+| The Complete SQL Bootcamp                 | Udemy                | 2024  |
+| JLPT N2 (Japanese Language)               | Ongoing              | —     |
 
 ---
 
 ## 🔗 Links
 
-- GitHub: [github.com/CarineJackson1](https://github.com/CarineJackson1)
-- Tableau: [tableaupublic.com/profile/carinejackson](https://tableaupublic.com/profile/carinejackson)
-- LinkedIn: [linkedin.com/in/carinejackson](https://linkedin.com/in/carinejackson)
+- GitHub: [github.com/CarineJackson1](https://github.com/CarineJackson1)  
+- Tableau: [tableaupublic.com/profile/carinejackson](https://tableaupublic.com/profile/carinejackson)  
+- LinkedIn: [linkedin.com/in/carinejackson](https://linkedin.com/in/carinejackson)  
 - Resume: [Download PDF](#)
 
 ---
@@ -92,8 +91,10 @@ Completed a beginner-friendly certification path covering foundational AI/ML con
 
 ## 🧩 Work in Progress
 
-- Flask login alerting system with email notification  
-- Japanese threat feed parser  
-- AWS Security review case study  
+- 📨 **Flask login alerting system** – Sends email notifications for suspicious logins  
+- 🌐 **Japanese threat feed parser** – Translates and normalizes alerts from JP-CERT  
+- 🛡️ **AWS Security Case Study** – Conducting IAM policy audit and threat model for AWS sandbox
+
+---
 
 <img width="1000" alt="Banner 2" src="https://github.com/user-attachments/assets/930158d3-c987-472a-aab4-4330c0783f1a" />
