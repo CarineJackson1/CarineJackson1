@@ -3,7 +3,6 @@
 <img width="1000" height="350" alt="ChatGPT Image Jul 22, 2025, 05_05_13 PM" src="https://github.com/user-attachments/assets/f1835329-730c-4943-ad1f-4b99fbff38ce" />
 
 ---
-Bilingual (EN/JP) | Python | SQL | Cybersecurity | Network Defense | Localization | Data Visualization | Data Security
 
 ## 📜 About Me
 
@@ -12,6 +11,8 @@ Detail-oriented Cybersecurity & Data Analytics graduate with a unique background
 🔐 Currently completing: CompTIA Security+ | JLPT N2 (Advanced Japanese)
 
 🌏 Passionate about cybersecurity policy, secure system design, and bridging East-West tech teams.
+
+Bilingual (EN/JP) | Python | SQL | Cybersecurity | Network Defense | Localization | Data Visualization | Data Security
 
 ---
 
