@@ -64,13 +64,7 @@ Detail-oriented Cybersecurity & Data Analytics graduate with a unique background
 
 ### 🧠 Wireshark Threat Analysis
 **Tech:** Wireshark, PCAP
-**Overview:** Captured and analyzed suspicious traffic including ARP poisoning and DNS spoofing. Wrote report with threat classification.
-
----
-
-### 🔐 Encryption and Hashing Toolkit
-**Tech:** Python (PyCryptodome, hashlib)
-**Overview:** Wrote scripts to demonstrate AES encryption, RSA key gen, and SHA-256 hashing.
+**Overview:** Captured and analyzed suspicious traffic, including ARP poisoning and DNS spoofing. Wrote a report with threat classification.
 
 ---
 
@@ -100,3 +94,6 @@ Detail-oriented Cybersecurity & Data Analytics graduate with a unique background
 - Flask login alerting system with email notification
 - Japanese threat feed parser
 - AWS Security review case study
+
+ <img width="1000" height="350" alt="ChatGPT Image Jul 22, 2025, 05_09_45 PM" src="https://github.com/user-attachments/assets/930158d3-c987-472a-aab4-4330c0783f1a" />
+
