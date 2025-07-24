@@ -35,8 +35,8 @@ Simulated a ransomware attack on AIG using real CISA/FBI/NSA alerts. Developed P
 	Crafted advisory templates for crisis communications
 	Delivered a full incident report (incident_report.md)
  
-[🔗 GitHub Repo](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/README.md) 
-[Critical Alert Advisory PDF](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/stakeholder_emails_critical_alert_advisory.txt.pdf)
+**[🔗 GitHub Repo](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/README.md) 
+**[Critical Alert Advisory PDF](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/stakeholder_emails_critical_alert_advisory.txt.pdf)
 
 ---
 
@@ -48,8 +48,9 @@ Simulated a cybersecurity consulting engagement with Datacom. Investigated an AP
 	•	Produced a threat intel report with strategic mitigation
 	•	Conducted risk analysis across enterprise assets
 	•	Communicated findings clearly to both technical and executive audiences
-📄 Threat Intelligence Report
-📄 Risk Assessment Report Template: (Coming Soon)
+
+**📄 [Threat Intelligence Report](https://github.com/CarineJackson1/-cybersecurity-incident-investiga)
+**📄 Risk Assessment Report Template: (Coming Soon)
 
 ⸻
 
@@ -60,8 +61,8 @@ Simulated a cybersecurity consulting engagement with Datacom. Investigated an AP
 Completed a virtual internship as a Security Analyst via Forage. Designed a realistic phishing simulation and internal awareness campaign.  
 - Wrote a spoofed phishing email example  
 - Outlined campaign goals and employee response procedures  
-[🔗 GitHub Repo](https://github.com/CarineJackson1/mastercard-cybersecurity-virtual-experience)  
-[🔗 Program Info](https://www.theforage.com/virtual-internships/prototype/J7tqgq5PpYNB9Nb2A/Mastercard-Cybersecurity-Virtual-Experience-Program)
+**[🔗 GitHub Repo](https://github.com/CarineJackson1/mastercard-cybersecurity-virtual-experience)  
+**[🔗 Program Info](https://www.theforage.com/virtual-internships/prototype/J7tqgq5PpYNB9Nb2A/Mastercard-Cybersecurity-Virtual-Experience-Program)
 
 ---
 
@@ -69,8 +70,8 @@ Completed a virtual internship as a Security Analyst via Forage. Designed a real
 **Tech/Focus:** AI, ML, Deep Learning, Generative AI, Oracle Cloud  
 Completed Oracle’s AI Foundations certification, covering key AI/ML concepts and their cloud-native applications.  
 Topics included neural networks, LLMs, and Generative AI ethics.  
-[🔗 GitHub Repo](https://github.com/CarineJackson1/oci-ai-foundations)  
-[🔗 Oracle Learn](https://learn.oracle.com/ols/home)
+**[🔗 GitHub Repo](https://github.com/CarineJackson1/oci-ai-foundations)  
+**[🔗 Oracle Learn](https://learn.oracle.com/ols/home)
 
 ---
 
