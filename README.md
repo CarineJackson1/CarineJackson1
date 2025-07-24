@@ -77,7 +77,7 @@ Completed a cybersecurity virtual experience with Tata Consultancy Services, foc
 	•	Assessed IAM maturity and access controls
 	•	Designed secure IAM architecture using RBAC and policy-based access
 	•	Created a phased implementation roadmap for IAM rollout
-📄 GitHub 
+[📄 GitHub README](https://github.com/CarineJackson1/tcs-iam-solution-design)
 
 
 ---
