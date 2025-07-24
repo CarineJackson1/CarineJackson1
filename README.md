@@ -42,7 +42,9 @@ Simulated a ransomware attack on AIG using real CISA/FBI/NSA alerts. Developed P
 	Brute-forced encrypted file recovery (simulated)
 	Crafted advisory templates for crisis communications
 	Delivered a full incident report (incident_report.md)
+ 
 [🔗 GitHub Repo](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/README.md) 
+
 [Critical Alert Advisory PDF](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/stakeholder_emails_critical_alert_advisory.txt.pdf)
 
 ---
