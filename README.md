@@ -38,12 +38,12 @@ Here’s the updated Projects section with your “🛡️ Shields Up: Cybersecu
 
 **Tech/Focus:** Ransomware Response, CISA Alert Parsing, Stakeholder Comms, Python Tools
 Simulated a ransomware attack on AIG using real CISA/FBI/NSA alerts. Developed Python tools to extract IOCs, simulate decryption, and automate stakeholder communication. Authored an incident report detailing the timeline and response.
-	•	Parsed CISA JSON threat intel into actionable CSV
-	•	Brute-forced encrypted file recovery (simulated)
-	•	Crafted advisory templates for crisis communications
-	•	Delivered a full incident report (incident_report.md)
-🔗 [🔗 GitHub Repo](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/README.md) 
-📄 [Critical Alert Advisory PDF](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/stakeholder_emails_critical_alert_advisory.txt.pdf)
+	Parsed CISA JSON threat intel into an actionable CSV
+	Brute-forced encrypted file recovery (simulated)
+	Crafted advisory templates for crisis communications
+	Delivered a full incident report (incident_report.md)
+[🔗 GitHub Repo](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/README.md) 
+[Critical Alert Advisory PDF](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/stakeholder_emails_critical_alert_advisory.txt.pdf)
 
 ---
 
