@@ -36,7 +36,6 @@ Simulated a ransomware attack on AIG using real CISA/FBI/NSA alerts. Developed P
 	Delivered a full incident report (incident_report.md)
  
 [🔗 GitHub Repo](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/README.md) 
-
 [Critical Alert Advisory PDF](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/stakeholder_emails_critical_alert_advisory.txt.pdf)
 
 ---
@@ -107,7 +106,7 @@ Topics included neural networks, LLMs, and Generative AI ethics.
 ## 🧩 Work in Progress
 
 - 📨 **Flask login alerting system** – Sends email notifications for suspicious logins  
-- 🌐 **🛡️ Cybersecurity Consulting Project - Incident Investigation & Risk Assessment
+- 🛡️ **Cybersecurity Consulting Project - Incident Investigation & Risk Assessment
 - 🛡️ **AWS Security Case Study** – Conducting IAM policy audit and threat model for AWS sandbox
 
 ---
