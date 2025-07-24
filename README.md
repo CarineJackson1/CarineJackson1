@@ -26,14 +26,6 @@ Detail-oriented Cybersecurity & Data Analytics graduate with a unique background
 
 ## 🚀 Projects
 
-Here’s the updated Projects section with your “🛡️ Shields Up: Cybersecurity Incident Response Simulation” seamlessly formatted to match your portfolio style:
-
-⸻
-
-🚀 Projects
-
-⸻
-
 🛡️ Shields Up: Cybersecurity Incident Response Simulation
 
 **Tech/Focus:** Ransomware Response, CISA Alert Parsing, Stakeholder Comms, Python Tools
