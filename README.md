@@ -1,4 +1,4 @@
-# 👩‍💻 Carine Jackson – Cybersecurity & Data Analytics Specialist
+# 👩‍💻 Carine Jackson – Cybersecurity & Data Security Specialist
 
 <img width="1000" alt="Banner" src="https://github.com/user-attachments/assets/f1835329-730c-4943-ad1f-4b99fbff38ce" />
 
@@ -38,6 +38,21 @@ Simulated a ransomware attack on AIG using real CISA/FBI/NSA alerts. Developed P
 [🔗 GitHub Repo](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/README.md) 
 
 [Critical Alert Advisory PDF](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/stakeholder_emails_critical_alert_advisory.txt.pdf)
+
+---
+
+🛡️ Cybersecurity Consulting Project: Incident Investigation & Risk Assessment
+
+**Tech/Focus:** Threat Intel, Risk Management, MITRE ATT&CK, OSINT, Strategic Planning
+Simulated a cybersecurity consulting engagement with Datacom. Investigated an APT34 breach and delivered a full cyber risk assessment using a structured matrix and OSINT tools.
+	•	Mapped APT34’s TTPs using MITRE ATT&CK
+	•	Produced a threat intel report with strategic mitigation
+	•	Conducted risk analysis across enterprise assets
+	•	Communicated findings clearly to both technical and executive audiences
+📄 Threat Intelligence Report
+📄 Risk Assessment Report Template: (Coming Soon)
+
+⸻
 
 ---
 
@@ -92,7 +107,7 @@ Topics included neural networks, LLMs, and Generative AI ethics.
 ## 🧩 Work in Progress
 
 - 📨 **Flask login alerting system** – Sends email notifications for suspicious logins  
-- 🌐 ** 
+- 🌐 **🛡️ Cybersecurity Consulting Project - Incident Investigation & Risk Assessment
 - 🛡️ **AWS Security Case Study** – Conducting IAM policy audit and threat model for AWS sandbox
 
 ---
