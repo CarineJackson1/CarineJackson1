@@ -68,7 +68,19 @@ Completed a virtual internship as a Security Analyst via Forage. Designed a real
   [🔗 Program Info](https://www.theforage.com/virtual-internships/prototype/J7tqgq5PpYNB9Nb2A/Mastercard-Cybersecurity-Virtual-Experience-Program)
 
 ---
+🔐 Identity & Access Management (IAM) Solution Design – TCS Virtual Experience
 
+Role: IAM Developer
+Tech/Focus: IAM Readiness, Access Policy Design, Role-Based Access Control (RBAC), Project Implementation
+
+Completed a cybersecurity virtual experience with Tata Consultancy Services, focusing on IAM system development for a global client, TechCorp Enterprises. Delivered a complete IAM solution proposal aligned with business needs and regulatory requirements.
+	•	Assessed IAM maturity and access controls
+	•	Designed secure IAM architecture using RBAC and policy-based access
+	•	Created a phased implementation roadmap for IAM rollout
+📄 GitHub 
+
+
+---
 ### 🤖 Oracle OCI AI Foundations Learning Path  
 **Tech/Focus:** AI, ML, Deep Learning, Generative AI, Oracle Cloud  
 Completed Oracle’s AI Foundations certification, covering key AI/ML concepts and their cloud-native applications.  
@@ -112,7 +124,7 @@ Topics included neural networks, LLMs, and Generative AI ethics.
 
 - 📨 **Flask login alerting system** – Sends email notifications for suspicious logins  
 - 🛡️ **Cybersecurity Consulting Project - Incident Investigation & Risk Assessment
-- 🛡️ **AWS Security Case Study** – Conducting IAM policy audit and threat model for AWS sandbox
+- 🔐 Identity & Access Management (IAM) Solution Design – TCS Virtual Experience
 
 ---
 
