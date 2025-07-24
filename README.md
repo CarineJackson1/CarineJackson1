@@ -26,18 +26,24 @@ Detail-oriented Cybersecurity & Data Analytics graduate with a unique background
 
 ## 🚀 Projects
 
-### 🔐 Nmap-Flask Cybersecurity Dashboard  
-**Tech:** Python, Flask, Nmap, PostgreSQL, Chart.js  
-Built a full-stack app to automate network scans, log results, and visualize open ports.  
-Features include user authentication, scan scheduling, report exporting, and role-based access control.  
-[🔗 GitHub Repo](#)
+Here’s the updated Projects section with your “🛡️ Shields Up: Cybersecurity Incident Response Simulation” seamlessly formatted to match your portfolio style:
 
----
+⸻
 
-### 📊 PostgreSQL Log Monitor & Analysis  
-**Tech:** Python, psycopg2, pandas, matplotlib  
-Developed a Python script to monitor and parse PostgreSQL logs, detect failed login attempts, and visualize activity trends over time.  
-[🔗 GitHub Repo](#)
+🚀 Projects
+
+⸻
+
+🛡️ Shields Up: Cybersecurity Incident Response Simulation
+
+**Tech/Focus:** Ransomware Response, CISA Alert Parsing, Stakeholder Comms, Python Tools
+Simulated a ransomware attack on AIG using real CISA/FBI/NSA alerts. Developed Python tools to extract IOCs, simulate decryption, and automate stakeholder communication. Authored an incident report detailing the timeline and response.
+	•	Parsed CISA JSON threat intel into actionable CSV
+	•	Brute-forced encrypted file recovery (simulated)
+	•	Crafted advisory templates for crisis communications
+	•	Delivered a full incident report (incident_report.md)
+🔗 [🔗 GitHub Repo](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/README.md) 
+📄 [Critical Alert Advisory PDF](https://github.com/CarineJackson1/shields-up-cybersecurity-response/blob/main/stakeholder_emails_critical_alert_advisory.txt.pdf)
 
 ---
 
@@ -92,7 +98,7 @@ Topics included neural networks, LLMs, and Generative AI ethics.
 ## 🧩 Work in Progress
 
 - 📨 **Flask login alerting system** – Sends email notifications for suspicious logins  
-- 🌐 **Japanese threat feed parser** – Translates and normalizes alerts from JP-CERT  
+- 🌐 ** 
 - 🛡️ **AWS Security Case Study** – Conducting IAM policy audit and threat model for AWS sandbox
 
 ---
