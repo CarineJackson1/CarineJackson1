@@ -84,7 +84,7 @@ Topics included neural networks, LLMs, and Generative AI ethics.
 - GitHub: [github.com/CarineJackson1](https://github.com/CarineJackson1)  
 - Tableau: [tableaupublic.com/profile/carinejackson](https://tableaupublic.com/profile/carinejackson)  
 - LinkedIn: [linkedin.com/in/carinejackson](https://linkedin.com/in/carinejackson)  
-- Resume: [Download PDF](#)
+- Resume: [Download PDF](https://github.com/CarineJackson1/CarineJackson1/blob/main/CarineJackson%20Resume.pdf)
 
 ---
 
