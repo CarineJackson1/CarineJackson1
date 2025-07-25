@@ -45,7 +45,7 @@ Created a lab-safe Python toolkit for red team scenarios:
 	•	🖧 Socket backdoor to simulate client-server attacks
 	•	✅ Built in an isolated lab with ethical hacking protocols
 
-📁 [GitHub Repo](https://github.com/CarineJackson1/python-ethical-hacking-projects)
+📁 [GitHub README](https://github.com/CarineJackson1/python-ethical-hacking-projects)
 
 ⸻
 
