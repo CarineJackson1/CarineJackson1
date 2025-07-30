@@ -7,7 +7,7 @@
 Hi, I’m **Carine**, a cybersecurity and data analytics professional passionate about defending systems, translating complexity, and delivering secure, people-first solutions.
 
 ---
-<img width="800" height="300" alt="carine_github_banner_small" src="https://github.com/user-attachments/assets/070d50de-9137-4785-806a-451c72ca0975" />
+<img width="1000" height="300" alt="carine_github_banner_small" src="https://github.com/user-attachments/assets/070d50de-9137-4785-806a-451c72ca0975" />
 
 ---
 ## 🧩 Key Skills & Tools
