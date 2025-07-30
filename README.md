@@ -1,6 +1,6 @@
-# 👩‍💻 Carine Jackson – Cybersecurity Defender | Cloud & Data Guardian
-
 ![Banner](https://github.com/user-attachments/assets/f1835329-730c-4943-ad1f-4b99fbff38ce)
+
+# 👩‍💻 Carine Jackson – Cybersecurity Defender | Cloud & Data Guardian
 
 ---
 
@@ -57,7 +57,7 @@ Hi, I’m **Carine**, a cybersecurity and data analytics professional passionate
 |------------------|-------------|--------|
 | Cybersecurity Certificate | Coding Temple | 2025 |
 | Data Analytics Certificate | Break Into Tech | 2024 |
-| OCI AI Foundations | Oracle | 2025 |
+| OCI AI Foundations | Oracle | In Progress |
 | AWS Cloud Practitioner (CLF-C02) | Udemy | In Progress |
 
 ![Terminal Animation](assets/carine_terminal_animation.gif)
