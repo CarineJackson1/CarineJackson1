@@ -1,5 +1,4 @@
 # 👩‍💻 Carine Jackson – Cybersecurity Defender | Cloud & Data Guardian
-<img width="800" height="300" alt="carine_github_banner_small" src="https://github.com/user-attachments/assets/070d50de-9137-4785-806a-451c72ca0975" />
 
 ---
 
@@ -8,7 +7,8 @@
 Hi, I’m **Carine**, a cybersecurity and data analytics professional passionate about defending systems, translating complexity, and delivering secure, people-first solutions.
 
 ---
-![Banner](assets/carine_github_banner.png)
+<img width="800" height="300" alt="carine_github_banner_small" src="https://github.com/user-attachments/assets/070d50de-9137-4785-806a-451c72ca0975" />
+
 ---
 ## 🧩 Key Skills & Tools
 
