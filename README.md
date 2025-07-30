@@ -60,8 +60,6 @@ Hi, I’m **Carine**, a cybersecurity and data analytics professional passionate
 | OCI AI Foundations | Oracle | In Progress |
 | AWS Cloud Practitioner (CLF-C02) | Udemy | In Progress |
 
-![terminal_animation](https://github.com/user-attachments/assets/1af9e47b-69c6-41a6-afad-67a649a50947)
-
 ---
 
 ## 🌐 Let’s Connect
@@ -71,5 +69,4 @@ Hi, I’m **Carine**, a cybersecurity and data analytics professional passionate
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:carinejackson48@gmail.com)
 
 ---
-
-![Banner](https://github.com/user-attachments/assets/930158d3-c987-472a-aab4-4330c0783f1a)
+![terminal_animation](https://github.com/user-attachments/assets/1af9e47b-69c6-41a6-afad-67a649a50947)
