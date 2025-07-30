@@ -1,6 +1,4 @@
 <img width="800" height="150" alt="carine_github_banner_small" src="https://github.com/user-attachments/assets/070d50de-9137-4785-806a-451c72ca0975" />
-<img width="300" alt="Banner" src="https://github.com/user-attachments/assets/f1835329-730c-4943-ad1f-4b99fbff38ce" />
-
 
 # 👩‍💻 Carine Jackson – Cybersecurity Defender | Cloud & Data Guardian
 
