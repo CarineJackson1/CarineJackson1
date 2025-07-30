@@ -1,4 +1,6 @@
 ![Banner](https://github.com/user-attachments/assets/f1835329-730c-4943-ad1f-4b99fbff38ce)
+<img width="800" height="200" alt="carine_github_banner_small" src="https://github.com/user-attachments/assets/070d50de-9137-4785-806a-451c72ca0975" />
+
 
 # 👩‍💻 Carine Jackson – Cybersecurity Defender | Cloud & Data Guardian
 
@@ -60,7 +62,7 @@ Hi, I’m **Carine**, a cybersecurity and data analytics professional passionate
 | OCI AI Foundations | Oracle | In Progress |
 | AWS Cloud Practitioner (CLF-C02) | Udemy | In Progress |
 
-![Terminal Animation](assets/carine_terminal_animation.gif)
+![terminal_animation](https://github.com/user-attachments/assets/1af9e47b-69c6-41a6-afad-67a649a50947)
 
 ---
 
