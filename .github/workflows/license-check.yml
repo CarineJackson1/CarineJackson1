@@ -1,0 +1,11 @@
+name: 📜 License Checker
+
+on:
+  pull_request:
+
+jobs:
+  license-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: pilosus/action-pip-license-checker@v0.8.0
