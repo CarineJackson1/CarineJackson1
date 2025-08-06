@@ -1,4 +1,6 @@
 name: 📜 License Checker
+permissions:
+  contents: read
 
 on:
   pull_request:
