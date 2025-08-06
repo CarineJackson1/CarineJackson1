@@ -1,4 +1,6 @@
 name: 🏗 Checkov IaC Scan
+permissions:
+  contents: read
 
 on:
   push:
