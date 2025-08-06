@@ -1,4 +1,6 @@
 name: 🛡 Semgrep Security Scan
+permissions:
+  contents: read
 
 on:
   push:
