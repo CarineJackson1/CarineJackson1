@@ -29,7 +29,7 @@ I combine my technical acumen with multilingual communication (EN/JP) to solve s
 
 🔹 **Cybersecurity Lead @ AstroSkill LMS Connector**  
 Led security automation and CI/CD integration for an open-source Moodle-based hiring solution.  
-📄 [Security Overview »](https://github.com/CarineJackson1/astroskill-lms-connector/blob/main/docs/SECURITY_OVERVIEW.md)
+📄 [Security Overview »](https://github.com/CarineJackson1/astroskill-lms-connector/main/docs/SECURITY_OVERVIEW.md)
 
 - Developed PR security workflows with Semgrep, Bandit, Trivy, Retire.js, and Gitleaks.
 - CI pipelines enforce OWASP Top 10 & auto-generate reports (Markdown/PDF).
