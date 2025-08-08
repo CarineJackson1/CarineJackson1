@@ -6,10 +6,7 @@ I combine my technical acumen with multilingual communication (EN/JP) to solve s
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/carinejackson)  
-
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:carinejackson48@gmail.com)  
-[![](https://visitcount.itsvg.in/api?id=CarineJackson1&icon=7&color=5)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/carinejackson)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:carinejackson48@gmail.com) [![](https://visitcount.itsvg.in/api?id=CarineJackson1&icon=7&color=5)](https://visitcount.itsvg.in)
 
 ---
 
