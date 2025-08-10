@@ -3,7 +3,7 @@
 
 ---
 
-![Securing Cloud-Native Systems & Incident Response](https://i.imgur.com/8Yt0qZa.gif)
+![Securing Cloud-Native Systems & Incident Response](./assets/sec-cloud-native.gif)
 
 ## 🚀 About Me  
 I design secure cloud-native systems, optimize incident response workflows, and defend against real-world threats using data-driven automation. Leveraging bilingual skills (English/Japanese), I deliver comprehensive, end-to-end security solutions.
