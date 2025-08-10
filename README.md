@@ -50,12 +50,12 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
       Semgrep, Bandit, Trivy, Gitleaks
     </td>
     <td align="center">
-      <a href="https://github.com/CarineJackson1/python-ethical-hacking-projects">
-        <img src="https://img.shields.io/badge/Ethical_Hacking-Toolkit-blueviolet?style=for-the-badge&logo=python" alt="Python Toolkit">
+      <a href="https://github.com/CarineJackson1/ethical-hacking-portfolio">
+        <img src="https://img.shields.io/badge/Ethical_Hacking_Portfolio-Pentesting-blueviolet?style=for-the-badge&logo=python" alt="Ethical Hacking Portfolio">
       </a>
       <br/>
-      <sub><b>Red Team Scripts</b></sub><br/>
-      Scanners, fuzzers, brute force
+      <sub><b>Bug Bounty & Python Tools</b></sub><br/>
+      Recon, scanners, fuzzers, brute force, reporting
     </td>
     <td align="center">
       <a href="https://github.com/CarineJackson1/shields-up-cybersecurity-response">
@@ -93,7 +93,6 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📚 Certifications
