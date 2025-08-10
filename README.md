@@ -1,4 +1,4 @@
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/2900bb16-2740-4f4d-94ff-5d5ac15fac80" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/2900bb16-2740-4f4d-94ff-5d5ac15fac80" />
 
 ## 🚀 About Me  
 I design secure cloud-native systems, optimize incident response workflows, and defend against real-world threats using data-driven automation. Leveraging bilingual skills (English/Japanese), I deliver comprehensive, end-to-end security solutions.
