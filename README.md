@@ -1,7 +1,7 @@
 # Hi, I’m Carine 👋  
 **Cybersecurity & Data Analytics Professional | Bilingual (EN/JP) | Cloud Native & Incident Response Enthusiast**
 ---
-
+![Carine - Securing Cloud-Native Systems & Incident Response](https://i.imgur.com/8Yt0qZa.gif)
 ## 🚀 About Me  
 I design secure cloud-native systems, improve incident response workflows, and defend against real-world threats using data-driven automation.  
 I combine technical expertise with bilingual communication skills (English/Japanese) to deliver comprehensive, end-to-end security solutions.
@@ -12,7 +12,7 @@ I combine technical expertise with bilingual communication skills (English/Japan
 ## 🚀 About Me  
 I design secure cloud-native systems, improve incident response workflows, and defend against real-world threats using data-driven automation.  
 I combine technical expertise with bilingual communication skills (English/Japanese) to deliver comprehensive, end-to-end security solutions.
-![Cyber Shield](https://media.giphy.com/media/3o6Zt6D22f4yr6rFIk/giphy.gif)
+
 ---
 
 ## 💼 Featured Projects
