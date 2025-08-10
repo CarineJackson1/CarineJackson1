@@ -10,18 +10,33 @@ I combine my tech skills with bilingual communication (English/Japanese) to deli
 
 ---
 
-## 💻 Tech Stack
+# 🛠 Additional Tools & Skills
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+### Pentesting & Recon  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-darkred?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF6F61?style=for-the-badge&logo=owasp&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-7CA1B4?style=for-the-badge&logo=nmap&logoColor=white)  
+![Amass](https://img.shields.io/badge/Amass-0052CC?style=for-the-badge&logo=github&logoColor=white)  
+![Nikto](https://img.shields.io/badge/Nikto-007ACC?style=for-the-badge&logo=apache&logoColor=white)  
+
+### Network & Scripting  
+![Scapy](https://img.shields.io/badge/Scapy-00A6D6?style=for-the-badge&logo=python&logoColor=white)  
+![Curl](https://img.shields.io/badge/Curl-005A9C?style=for-the-badge&logo=curl&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+### Data Analysis & Visualization  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Regex](https://img.shields.io/badge/Regex-005A9C?style=for-the-badge&logo=regex&logoColor=white)  
+
+### Threat Intel & Frameworks  
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT--CK-0052CC?style=for-the-badge&logo=mitre&logoColor=white)  
+![CISA](https://img.shields.io/badge/CISA-005A9C?style=for-the-badge&logo=us-government&logoColor=white)  
+
+### Formats & Tools  
+JSON, CSV, Markdown, Incident Reporting, SOC Documentation
 
 ---
 
