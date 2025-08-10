@@ -1,7 +1,7 @@
 # Hi, I’m Carine 👋  
 **Cybersecurity & Data Analytics Professional | Bilingual (EN/JP) | Cloud Native & Incident Response Enthusiast**
 
-![Cybersecurity & Data Analytics Banner](https://images.unsplash.com/photo-1556155092-490a1ba16284?auto=format&fit=crop&w=800&q=80)
+![Cybersecurity & Data Analytics Banner](https://images.unsplash.com/photo-1556155092-490a1ba16284?auto=format&fit=crop&w=500&q=80)
 
 ## 🚀 About Me  
 I design secure cloud-native systems, optimize incident response workflows, and defend against real-world threats using data-driven automation. Leveraging bilingual skills (English/Japanese), I deliver comprehensive, end-to-end security solutions.
@@ -16,7 +16,7 @@ I design secure cloud-native systems, optimize incident response workflows, and 
       <a href="https://github.com/CarineJackson1/astroskill-lms-connector" target="_blank">
         <img src="https://img.shields.io/badge/AstroSkill_Security-Automation-informational?style=for-the-badge&logo=github" alt="AstroSkill"/>
       </a>
-      <br/><sub><b>CI/CD Security Scans</b></sub><br/>Semgrep, Bandit, Trivy, Gitleaks
+      <br/><sub><b>CI/CD Security Scans</b></sub><br/>Semgrep, Bandit, Trivy, Gitleaks, AWS, IAM, Pentesting/Ethical Hacking
     </td>
     <td align="center" style="padding:10px;">
       <a href="https://github.com/CarineJackson1/ethical-hacking-portfolio" target="_blank">
