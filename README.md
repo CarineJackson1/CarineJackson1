@@ -1,7 +1,9 @@
+![Cyber Shield](https://media.giphy.com/media/3o6Zt6D22f4yr6rFIk/giphy.gif)
 # Hi, I’m Carine 👋  
 **Cybersecurity & Data Analytics Professional | Bilingual (EN/JP) | Cloud Native & Incident Response Enthusiast**
 
-![Intro Animation](https://media.giphy.com/media/3o7TKxY6y1Rd9D8StC/giphy.gif)
+![Hacker Typing](https://media.giphy.com/media/3o7TKxY6y1Rd9D8StC/giphy.gif)
+![Matrix Code](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
 
 ---
 
