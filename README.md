@@ -94,13 +94,20 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/CarineJackson1/mastercard-cybersecurity-virtual-experience">
-        <img src="https://img.shields.io/badge/Mastercard_Cybersecurity_Virtual_Experience-Phishing_Simulation-orange?style=for-the-badge&logo=mastercard" alt="Mastercard Cybersecurity">
-      </a>
-      <br/>
-      <sub><b>Phishing Simulation & Awareness</b></sub><br/>
-      Social engineering, email design, training
-    </td>
+   <td align="center" style="vertical-align: top; max-width: 320px;">
+  <a href="https://github.com/CarineJackson1/mastercard-cybersecurity-virtual-experience">
+    <img src="https://img.shields.io/badge/Mastercard_Cybersecurity_Virtual_Experience-Phishing_Simulation-orange?style=for-the-badge&logo=mastercard" alt="Mastercard Cybersecurity">
+  </a>
+  <br/>
+  <sub><b>Phishing Simulation & Security Awareness Campaign</b></sub><br/>
+  <small>Independent Cybersecurity Project · 2025</small>
+  <ul style="text-align: left; padding-left: 1em; margin-top: 0.5em; font-size: 0.8em;">
+    <li>Designed, launched, and managed a simulated phishing campaign across a test user group, collecting click-through and report metrics.</li>
+    <li>Conducted incident-style investigations on reported phishing attempts to assess potential compromise and improve detection accuracy.</li>
+    <li>Created tailored user awareness training that reduced phishing click rates in follow-up tests.</li>
+    <li>Documented incidents and response steps in a format suitable for SOC/MDR knowledge bases.</li>
+  </ul>
+</td>
     <td align="center">
       <a href="https://github.com/CarineJackson1/aig-shields-up-cybersecurity-simulation">
         <img src="https://img.shields.io/badge/AIG_Shields_Up-Cyber_Incident_Response-blue?style=for-the-badge&logo=python" alt="AIG Shields Up">
