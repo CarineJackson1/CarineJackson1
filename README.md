@@ -62,7 +62,7 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
         <img src="https://img.shields.io/badge/Ransomware_IR-Plan-critical?style=for-the-badge&logo=github" alt="IR Plan">
       </a>
       <br/>
-      <sub><b>NIST CSF Response</b></sub><br/>
+      <sub><b>NIST CSF Incident Response</b></sub><br/>
       Timeline, logs, containment playbook
     </td>
   </tr>
@@ -72,27 +72,54 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
         <img src="https://img.shields.io/badge/APT34_Threat_Intel-Report-orange?style=for-the-badge&logo=mitre" alt="APT34 Intel">
       </a>
       <br/>
-      <sub><b>Nation-State Profiling</b></sub><br/>
-      TTPs, IOCs, OSINT mapping
+      <sub><b>Nation-State Threat Intel</b></sub><br/>
+      OSINT, TTPs, IOCs, MITRE ATT&CK mapping
     </td>
     <td align="center">
       <a href="https://github.com/CarineJackson1/aws-cloud-practitioner-clf-c02">
         <img src="https://img.shields.io/badge/AWS_Cloud_Security-Hardening-yellow?style=for-the-badge&logo=amazonaws" alt="AWS Security">
       </a>
       <br/>
-      <sub><b>IAM + S3 Encryption</b></sub><br/>
-      Role setup, MFA, secure infra
+      <sub><b>AWS IAM & S3 Encryption</b></sub><br/>
+      Role setup, MFA, secure infrastructure
     </td>
     <td align="center">
       <a href="https://github.com/CarineJackson1/python-log-analyzer-starter">
         <img src="https://img.shields.io/badge/Log_Analyzer-Jupyter_Lab-blue?style=for-the-badge&logo=jupyter" alt="Log Analyzer">
       </a>
       <br/>
-      <sub><b>Security Log Parsing</b></sub><br/>
-      Python + Regex + Visualization
+      <sub><b>Security Log Parsing & Visualization</b></sub><br/>
+      Python, Regex, Data visualization
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/CarineJackson1/mastercard-cybersecurity-virtual-experience">
+        <img src="https://img.shields.io/badge/Mastercard_Cybersecurity_Virtual_Experience-Phishing_Simulation-orange?style=for-the-badge&logo=mastercard" alt="Mastercard Cybersecurity">
+      </a>
+      <br/>
+      <sub><b>Phishing Simulation & Awareness</b></sub><br/>
+      Social engineering, email design, training
+    </td>
+    <td align="center">
+      <a href="https://github.com/CarineJackson1/aig-shields-up-cybersecurity-simulation">
+        <img src="https://img.shields.io/badge/AIG_Shields_Up-Cyber_Incident_Response-blue?style=for-the-badge&logo=python" alt="AIG Shields Up">
+      </a>
+      <br/>
+      <sub><b>Ransomware Incident Response</b></sub><br/>
+      Threat intel, stakeholder communication, Python automation
+    </td>
+    <td align="center">
+      <a href="https://github.com/CarineJackson1/datacom-cybersecurity-consulting-project">
+        <img src="https://img.shields.io/badge/Datacom_Cybersecurity_Consulting-Threat_Assessment-critical?style=for-the-badge&logo=mitre" alt="Datacom Consulting">
+      </a>
+      <br/>
+      <sub><b>Cybersecurity Risk & Threat Assessment</b></sub><br/>
+      OSINT, MITRE ATT&CK, risk matrix, reporting
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📚 Certifications
