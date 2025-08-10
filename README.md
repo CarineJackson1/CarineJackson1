@@ -55,7 +55,7 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
       </a>
       <br/>
       <sub><b>Bug Bounty & Python Tools</b></sub><br/>
-      Recon, scanners, fuzzers, brute force, reporting
+      Recon, scanning, fuzzing, brute force, reporting
     </td>
     <td align="center" style="vertical-align: top; max-width: 320px;">
       <a href="https://github.com/CarineJackson1/shields-up-cybersecurity-response">
@@ -63,7 +63,7 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
       </a>
       <br/>
       <sub><b>NIST CSF Incident Response</b></sub><br/>
-      Timeline, logs, containment playbook
+      Timeline, logs, containment, playbook
     </td>
   </tr>
   <tr>
@@ -81,15 +81,15 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
       </a>
       <br/>
       <sub><b>AWS IAM & S3 Encryption</b></sub><br/>
-      Role setup, MFA, secure infra
+      Roles, MFA, encryption, secure infra
     </td>
     <td align="center" style="vertical-align: top; max-width: 320px;">
       <a href="https://github.com/CarineJackson1/python-log-analyzer-starter">
         <img src="https://img.shields.io/badge/Log_Analyzer-Jupyter_Lab-blue?style=for-the-badge&logo=jupyter" alt="Log Analyzer">
       </a>
       <br/>
-      <sub><b>Security Log Parsing & Visualization</b></sub><br/>
-      Python, Regex, Data visualization
+      <sub><b>Security Log Parsing</b></sub><br/>
+      Python, regex, visualization
     </td>
   </tr>
   <tr>
@@ -98,14 +98,8 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
         <img src="https://img.shields.io/badge/Mastercard_Cybersecurity_Virtual_Experience-Phishing_Simulation-orange?style=for-the-badge&logo=mastercard" alt="Mastercard Cybersecurity">
       </a>
       <br/>
-      <sub><b>Phishing Simulation & Security Awareness</b></sub><br/>
-      <small>Independent Cybersecurity Project · 2025</small>
-      <ul style="text-align: left; padding-left: 1em; margin-top: 0.5em; font-size: 0.8em; list-style-type: disc;">
-        <li>Phishing campaign design & metrics</li>
-        <li>Incident-style investigations</li>
-        <li>User awareness training & reduction</li>
-        <li>Documentation for SOC/MDR knowledge base</li>
-      </ul>
+      <sub><b>Phishing Simulation & Awareness</b></sub><br/>
+      Campaign design, metrics, investigations, training, SOC docs
     </td>
     <td align="center" style="vertical-align: top; max-width: 320px;">
       <a href="https://github.com/CarineJackson1/aig-shields-up-cybersecurity-simulation">
@@ -120,7 +114,7 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
         <img src="https://img.shields.io/badge/Datacom_Cybersecurity_Consulting-Threat_Assessment-critical?style=for-the-badge&logo=mitre" alt="Datacom Consulting">
       </a>
       <br/>
-      <sub><b>Cybersecurity Risk & Threat Assessment</b></sub><br/>
+      <sub><b>Risk & Threat Assessment</b></sub><br/>
       OSINT, MITRE ATT&CK, risk matrix, reporting
     </td>
   </tr>
