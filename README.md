@@ -49,7 +49,7 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
       <sub><b>CI/CD Security Scans</b></sub><br/>
       Semgrep, Bandit, Trivy, Gitleaks
     </td>
-    <td align="center">
+    <td align="center" style="vertical-align: top; max-width: 320px;">
       <a href="https://github.com/CarineJackson1/ethical-hacking-portfolio">
         <img src="https://img.shields.io/badge/Ethical_Hacking_Portfolio-Pentesting-blueviolet?style=for-the-badge&logo=python" alt="Ethical Hacking Portfolio">
       </a>
@@ -57,7 +57,7 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
       <sub><b>Bug Bounty & Python Tools</b></sub><br/>
       Recon, scanners, fuzzers, brute force, reporting
     </td>
-    <td align="center">
+    <td align="center" style="vertical-align: top; max-width: 320px;">
       <a href="https://github.com/CarineJackson1/shields-up-cybersecurity-response">
         <img src="https://img.shields.io/badge/Ransomware_IR-Plan-critical?style=for-the-badge&logo=github" alt="IR Plan">
       </a>
@@ -67,23 +67,23 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="vertical-align: top; max-width: 320px;">
       <a href="https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting">
         <img src="https://img.shields.io/badge/APT34_Threat_Intel-Report-orange?style=for-the-badge&logo=mitre" alt="APT34 Intel">
       </a>
       <br/>
       <sub><b>Nation-State Threat Intel</b></sub><br/>
-      OSINT, TTPs, IOCs, MITRE ATT&CK mapping
+      OSINT, TTPs, IOCs, MITRE ATT&CK
     </td>
-    <td align="center">
+    <td align="center" style="vertical-align: top; max-width: 320px;">
       <a href="https://github.com/CarineJackson1/aws-cloud-practitioner-clf-c02">
         <img src="https://img.shields.io/badge/AWS_Cloud_Security-Hardening-yellow?style=for-the-badge&logo=amazonaws" alt="AWS Security">
       </a>
       <br/>
       <sub><b>AWS IAM & S3 Encryption</b></sub><br/>
-      Role setup, MFA, secure infrastructure
+      Role setup, MFA, secure infra
     </td>
-    <td align="center">
+    <td align="center" style="vertical-align: top; max-width: 320px;">
       <a href="https://github.com/CarineJackson1/python-log-analyzer-starter">
         <img src="https://img.shields.io/badge/Log_Analyzer-Jupyter_Lab-blue?style=for-the-badge&logo=jupyter" alt="Log Analyzer">
       </a>
@@ -93,30 +93,29 @@ Led security automation and CI/CD integration for an open-source Moodle-based hi
     </td>
   </tr>
   <tr>
-    <td align="center">
-   <td align="center" style="vertical-align: top; max-width: 320px;">
-  <a href="https://github.com/CarineJackson1/mastercard-cybersecurity-virtual-experience">
-    <img src="https://img.shields.io/badge/Mastercard_Cybersecurity_Virtual_Experience-Phishing_Simulation-orange?style=for-the-badge&logo=mastercard" alt="Mastercard Cybersecurity">
-  </a>
-  <br/>
-  <sub><b>Phishing Simulation & Security Awareness Campaign</b></sub><br/>
-  <small>Independent Cybersecurity Project · 2025</small>
-  <ul style="text-align: left; padding-left: 1em; margin-top: 0.5em; font-size: 0.8em;">
-    <li>Designed, launched, and managed a simulated phishing campaign across a test user group, collecting click-through and report metrics.</li>
-    <li>Conducted incident-style investigations on reported phishing attempts to assess potential compromise and improve detection accuracy.</li>
-    <li>Created tailored user awareness training that reduced phishing click rates in follow-up tests.</li>
-    <li>Documented incidents and response steps in a format suitable for SOC/MDR knowledge bases.</li>
-  </ul>
-</td>
-    <td align="center">
+    <td align="center" style="vertical-align: top; max-width: 320px;">
+      <a href="https://github.com/CarineJackson1/mastercard-cybersecurity-virtual-experience">
+        <img src="https://img.shields.io/badge/Mastercard_Cybersecurity_Virtual_Experience-Phishing_Simulation-orange?style=for-the-badge&logo=mastercard" alt="Mastercard Cybersecurity">
+      </a>
+      <br/>
+      <sub><b>Phishing Simulation & Security Awareness</b></sub><br/>
+      <small>Independent Cybersecurity Project · 2025</small>
+      <ul style="text-align: left; padding-left: 1em; margin-top: 0.5em; font-size: 0.8em; list-style-type: disc;">
+        <li>Phishing campaign design & metrics</li>
+        <li>Incident-style investigations</li>
+        <li>User awareness training & reduction</li>
+        <li>Documentation for SOC/MDR knowledge base</li>
+      </ul>
+    </td>
+    <td align="center" style="vertical-align: top; max-width: 320px;">
       <a href="https://github.com/CarineJackson1/aig-shields-up-cybersecurity-simulation">
         <img src="https://img.shields.io/badge/AIG_Shields_Up-Cyber_Incident_Response-blue?style=for-the-badge&logo=python" alt="AIG Shields Up">
       </a>
       <br/>
       <sub><b>Ransomware Incident Response</b></sub><br/>
-      Threat intel, stakeholder communication, Python automation
+      Threat intel, stakeholder comms, Python automation
     </td>
-    <td align="center">
+    <td align="center" style="vertical-align: top; max-width: 320px;">
       <a href="https://github.com/CarineJackson1/datacom-cybersecurity-consulting-project">
         <img src="https://img.shields.io/badge/Datacom_Cybersecurity_Consulting-Threat_Assessment-critical?style=for-the-badge&logo=mitre" alt="Datacom Consulting">
       </a>
