@@ -149,7 +149,7 @@ JSON, CSV, Markdown, Incident Reporting, SOC Documentation
 
 - [LinkedIn](https://www.linkedin.com/in/carinejackson)  
 - [GitHub](https://github.com/CarineJackson1)  
-- Email: your.email@example.com  
+- Email: carinejackson48@gmail.com  
 
 ---
 
