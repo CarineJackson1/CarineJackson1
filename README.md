@@ -1,7 +1,7 @@
 # 👩‍💻 Carine Jackson – Cybersecurity Lead | Cloud & Data Defender
 
-Hi, I’m **Carine** — a cybersecurity and data analytics professional focused on designing secure cloud-native systems, improving incident response, and defending against real-world threats with data and automation.  
-I combine my technical acumen with multilingual communication (EN/JP) to solve security problems **end-to-end**.
+Hey, I’m Carine — a cybersecurity and data analytics enthusiast who loves building secure cloud-native systems, improving incident response, and tackling real-world threats using data and automation.
+I combine my tech skills with bilingual communication (English/Japanese) to deliver end-to-end security solutions that really work.
 
 ---
 
