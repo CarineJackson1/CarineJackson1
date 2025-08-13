@@ -61,7 +61,6 @@ I design secure cloud-native systems, optimize incident response workflows, and 
 **Data Analysis & Visualization:**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Regex](https://img.shields.io/badge/Regex-005A9C?style=for-the-badge&logo=regex&logoColor=white)  
 
 **Threat Intel & Frameworks:**  
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT--CK-0052CC?style=for-the-badge&logo=mitre&logoColor=white)  
