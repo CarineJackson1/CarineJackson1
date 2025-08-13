@@ -132,7 +132,7 @@ I design secure cloud-native systems, optimize incident response workflows, and 
 - Vulnerability Scanning (Semgrep, Bandit, Trivy, OWASP ZAP)  
 - Email Protocols & Threat Analysis (SMTP, SPF, DKIM, DMARC)  
 - Linux & Windows CLI (bash, grep)  
-- Regex (POSIX, Python)  
+- Regex (POSIX, (Basic)Python)  
 - Risk Assessment & Compliance (NIST CSF, OWASP Top 10)  
 - SIEM Tools (Log Analytics)
 
