@@ -21,15 +21,6 @@ I design secure cloud-native systems, optimize incident response workflows, and 
       <a href="https://github.com/CarineJackson1/ethical-hacking-portfolio" target="_blank">
         <img src="https://img.shields.io/badge/Ethical_Hacking_Portfolio-Pentesting-blueviolet?style=for-the-badge&logo=python" alt="Ethical Hacking"/>
       </a>
-      <br/><sub><b>Bug Bounty & Python Tools</b></sub><br/>Recon, scanning, fuzzing, brute force, reporting
-    </td>
-    <td align="center" style="padding:10px;">
-      <a href="https://github.com/CarineJackson1/shields-up-cybersecurity-response" target="_blank">
-        <img src="https://img.shields.io/badge/Ransomware_IR-Plan-critical?style=for-the-badge&logo=github" alt="IR Plan"/>
-      </a>
-      <br/><sub><b>NIST CSF Incident Response</b></sub><br/>Timeline, logs, containment, playbook
-    </td>
-  </tr>
   <tr>
     <td align="center" style="padding:10px;">
       <a href="https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting" target="_blank">
