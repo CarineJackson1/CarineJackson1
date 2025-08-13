@@ -1,5 +1,6 @@
 # Hi, I’m Carine 👋  
-*Cybersecurity & Data Analytics Professional | Bilingual (EN/JP) | Cloud Native & Incident Response Enthusiast**
+
+*Cybersecurity & Data Analytics Professional | Bilingual (EN/JP) | Cloud Native & Incident Response Enthusiast*
 ---
 
 ## 🚀 About Me  
