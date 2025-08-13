@@ -18,11 +18,6 @@ I design secure cloud-native systems, optimize incident response workflows, and 
       <br/><sub><b>CI/CD Security Scans</b></sub><br/>Semgrep, Bandit, Trivy, Gitleaks, AWS, IAM, Pentesting/Ethical Hacking
     </td>
     <td align="center" style="padding:10px;">
-      <a href="https://github.com/CarineJackson1/ethical-hacking-portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/Ethical_Hacking_Portfolio-Pentesting-blueviolet?style=for-the-badge&logo=python" alt="Ethical Hacking"/>
-      </a>
-  <tr>
-    <td align="center" style="padding:10px;">
       <a href="https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting" target="_blank">
         <img src="https://img.shields.io/badge/APT34_Threat_Intel-Report-orange?style=for-the-badge&logo=mitre" alt="Threat Intel"/>
       </a>
