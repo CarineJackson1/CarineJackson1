@@ -16,7 +16,7 @@ I design secure cloud-native systems, optimize incident response workflows, and 
 |:---:|:---:|:---:|
 | **NIST CSF Incident Response**<br>Timeline, logs, containment, Python scripts | **Threat Intelligence**<br>OSINT, TTPs, IOCs, MITRE ATT&CK | **AWS Security**<br>IAM, S3 encryption, MFA, secure infra |
 
-| [![Log Analyzer](https://img.shields.io/badge/Log_Analyzer-Jupyter_Lab-blue?style=for-the-badge&logo=jupyter)](https://github.com/CarineJackson1/python-log-analyzer-starter) | [![Mastercard Phishing](https://img.shields.io/badge/Mastercard_Phishing-Awareness-critical?style=for-the-badge&logo=mastercard)](https://github.com/CarineJackson1/mastercard-cybersecurity-simulation) | [![Next Project](https://img.shields.io/badge/Next_Project-ComingSoon-lightgrey?style=for-the-badge&logo=github)]() |
+| [![Log Analyzer](https://img.shields.io/badge/Log_Analyzer-Jupyter_Lab-blue?style=for-the-badge&logo=jupyter)](https://github.com/CarineJackson1/python-log-analyzer-starter) | [![Mastercard Phishing](https://img.shields.io/badge/Mastercard_Phishing-Awareness-critical?style=for-the-badge&logo=mastercard)](https://github.com/CarineJackson1/log-anomaly-detector) | [![Next Project](https://img.shields.io/badge/Next_Project-ComingSoon-lightgrey?style=for-the-badge&logo=github)]() |
 |:---:|:---:|:---:|
 | **Security Log Parsing**<br>Python, regex, visualization, SOC, incident response | **Phishing Simulation**<br>Awareness, campaigns, incident investigation, SOC | **More Projects**<br>Stay tuned for future updates |
 
