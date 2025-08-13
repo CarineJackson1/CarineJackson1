@@ -8,18 +8,17 @@ I design secure cloud-native systems, optimize incident response workflows, and 
 ---
 
 ## 💼 Featured Projects
-| [![AstroSkill Security Automation](https://img.shields.io/badge/AstroSkill_Security-Automation-informational?style=for-the-badge&logo=github)](https://github.com/CarineJackson1/astroskill-lms-connector) | [![Ethical Hacking Portfolio](https://img.shields.io/badge/Ethical_Hacking_Portfolio-Pentesting-blueviolet?style=for-the-badge&logo=python)](https://github.com/CarineJackson1/ethical-hacking-portfolio) | [![Mastercard Phishing](https://img.shields.io/badge/Mastercard_Phishing-Awareness-critical?style=for-the-badge&logo=mastercard)](https://github.com/CarineJackson1/mastercard-cybersecurity-simulation) |
+| [![AstroSkill Security](https://img.shields.io/badge/AstroSkill_Security-Automation-informational?style=for-the-badge&logo=github)](https://github.com/CarineJackson1/astroskill-lms-connector) | [![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Portfolio-blueviolet?style=for-the-badge&logo=python)](https://github.com/CarineJackson1/ethical-hacking-portfolio) | [![Mastercard Phishing](https://img.shields.io/badge/Mastercard_Phishing-Awareness-critical?style=for-the-badge&logo=mastercard)](https://github.com/CarineJackson1/mastercard-cybersecurity-simulation) |
 |:---:|:---:|:---:|
 | **CI/CD Security Scans**<br>Semgrep, Bandit, Trivy, Gitleaks | **Bug Bounty & Python Tools**<br>Recon, scanners, fuzzers, brute-force, reporting | **Phishing Simulation**<br>Awareness, campaigns, incident investigation, SOC |
 
-| [![Shields Up IR](https://img.shields.io/badge/Ransomware_IR-Plan-red?style=for-the-badge&logo=github)](https://github.com/CarineJackson1/shields-up-cybersecurity-response) | [![APT34 Threat Intel](https://img.shields.io/badge/APT34_Threat_Intel-Report-orange?style=for-the-badge&logo=mitre)](https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting) | [![AWS Cloud Security](https://img.shields.io/badge/AWS_Cloud_Security-Hardening-yellow?style=for-the-badge&logo=amazonaws)](https://github.com/CarineJackson1/aws-cloud-practitioner-clf-c02) |
+| [![Shields Up IR](https://img.shields.io/badge/Ransomware_IR-Plan-red?style=for-the-badge&logo=github)](https://github.com/CarineJackson1/shields-up-cybersecurity-response) | [![APT34 Threat Intel](https://img.shields.io/badge/APT34_Threat_Intel-Report-orange?style=for-the-badge&logo=mitre)](https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting) | [![AWS Security](https://img.shields.io/badge/AWS_Cloud_Security-Hardening-yellow?style=for-the-badge&logo=amazonaws)](https://github.com/CarineJackson1/aws-cloud-practitioner-clf-c02) |
 |:---:|:---:|:---:|
-| **NIST CSF Incident Response**<br>Timeline, logs, containment, Python scripts | **Threat Intelligence**<br>OSINT, TTPs, IOCs, MITRE ATT&CK | **AWS Security**<br>IAM, S3 encryption, MFA, secure infra |
+| **NIST CSF Response**<br>Timeline, logs, containment, Python scripts | **Threat Intelligence**<br>OSINT, TTPs, IOCs, MITRE ATT&CK | **AWS Security**<br>IAM, S3 encryption, MFA, secure infra |
 
-| [![Log Analyzer](https://img.shields.io/badge/Log_Analyzer-Jupyter_Lab-blue?style=for-the-badge&logo=jupyter)](https://github.com/CarineJackson1/python-log-analyzer-starter) | [![Mastercard Phishing](https://img.shields.io/badge/Mastercard_Phishing-Awareness-critical?style=for-the-badge&logo=mastercard)](https://github.com/CarineJackson1/log-anomaly-detector) | [![Next Project](https://img.shields.io/badge/Next_Project-ComingSoon-lightgrey?style=for-the-badge&logo=github)]() |
+| [![Log Analyzer](https://img.shields.io/badge/Log_Analyzer-Jupyter_Lab-blue?style=for-the-badge&logo=jupyter)](https://github.com/CarineJackson1/log-analyzer-detector) | [![Next Project](https://img.shields.io/badge/Next_Project-ComingSoon-lightgrey?style=for-the-badge&logo=github)]() |  |
 |:---:|:---:|:---:|
-| **Security Log Parsing**<br>Python, regex, visualization, SOC, incident response | **Phishing Simulation**<br>Awareness, campaigns, incident investigation, SOC | **More Projects**<br>Stay tuned for future updates |
-
+| **Security Log Parsing**<br>Python, regex, visualization, SOC, incident response | **More Projects**<br>Stay tuned for future updates |  |
 ---
 
 ## 🛠 Tech Stack
