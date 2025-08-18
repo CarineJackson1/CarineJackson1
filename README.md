@@ -13,7 +13,7 @@ I design secure cloud-native systems, optimize incident response workflows, and 
 |:---:|:---:|:---:|
 | **CI/CD Security Scans**<br>Semgrep, Bandit, Trivy, Gitleaks | **Bug Bounty & Python Tools**<br>Recon, scanners, fuzzers, brute-force, reporting | **Phishing Simulation**<br>Awareness, campaigns, incident investigation, SOC |
 
-| [![Shields Up IR](https://img.shields.io/badge/Ransomware_IR-Plan-red?style=for-the-badge&logo=github)](https://github.com/CarineJackson1/shields-up-cybersecurity-response) | [![APT34 Threat Intel](https://img.shields.io/badge/APT34_Threat_Intel-Report-orange?style=for-the-badge&logo=mitre)](https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting) | [![AWS Security](https://img.shields.io/badge/AWS_Cloud_Security-Hardening-yellow?style=for-the-badge&logo=amazonaws)](https://github.com/CarineJackson1/aws-cloud-practitioner-clf-c02) |
+| [![Shields Up IR](https://img.shields.io/badge/Ransomware_IR-Plan-red?style=for-the-badge&logo=github)](https://github.com/CarineJackson1/-Shields-Up-Incident-Investigation-Response-Risk-Assessment) | [![APT34 Threat Intel](https://img.shields.io/badge/APT34_Threat_Intel-Report-orange?style=for-the-badge&logo=mitre)](https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting) | [![AWS Security](https://img.shields.io/badge/AWS_Cloud_Security-Hardening-yellow?style=for-the-badge&logo=amazonaws)](https://github.com/CarineJackson1/aws-cloud-practitioner-clf-c02) |
 |:---:|:---:|:---:|
 | **Shields Up Incident Response**<br>Timeline, logs, containment, Python scripts, NIST CSF | **Threat Intelligence**<br>OSINT, TTPs, IOCs, MITRE ATT&CK | **AWS Security**<br>IAM, S3 encryption, MFA, secure infra |
 
