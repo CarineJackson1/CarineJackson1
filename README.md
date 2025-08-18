@@ -90,7 +90,8 @@ I design secure cloud-native systems, optimize incident response workflows, and 
 ## 📫 Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/carinejackson)  
-- [GitHub](https://github.com/CarineJackson1)  
+- [GitHub](https://github.com/CarineJackson1)
+- [Resume](https://github.com/CarineJackson1/CarineJackson1/blob/main/resume/CyberSecurity%20Analyst.pdf)
 - Email: carinejackson48@gmail.com  
 
 ---
