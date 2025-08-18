@@ -1,5 +1,6 @@
 # Hi, I’m Carine 👋  
 *Cybersecurity & Data Analytics Professional | Bilingual (EN/JP) | Cloud Native & Incident Response Enthusiast*
+
 ---
 
 ## 🚀 About Me  
@@ -14,11 +15,12 @@ I design secure cloud-native systems, optimize incident response workflows, and 
 
 | [![Shields Up IR](https://img.shields.io/badge/Ransomware_IR-Plan-red?style=for-the-badge&logo=github)](https://github.com/CarineJackson1/shields-up-cybersecurity-response) | [![APT34 Threat Intel](https://img.shields.io/badge/APT34_Threat_Intel-Report-orange?style=for-the-badge&logo=mitre)](https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting) | [![AWS Security](https://img.shields.io/badge/AWS_Cloud_Security-Hardening-yellow?style=for-the-badge&logo=amazonaws)](https://github.com/CarineJackson1/aws-cloud-practitioner-clf-c02) |
 |:---:|:---:|:---:|
-| **NIST CSF Response**<br>Timeline, logs, containment, Python scripts | **Threat Intelligence**<br>OSINT, TTPs, IOCs, MITRE ATT&CK | **AWS Security**<br>IAM, S3 encryption, MFA, secure infra |
+| **Shields Up Incident Response**<br>Timeline, logs, containment, Python scripts, NIST CSF | **Threat Intelligence**<br>OSINT, TTPs, IOCs, MITRE ATT&CK | **AWS Security**<br>IAM, S3 encryption, MFA, secure infra |
 
-| [![Log Analyzer](https://img.shields.io/badge/Log_Analyzer-Jupyter_Lab-blue?style=for-the-badge&logo=jupyter)](https://github.com/CarineJackson1/log-anomaly-detector) | [![Next Project](https://img.shields.io/badge/Next_Project-ComingSoon-lightgrey?style=for-the-badge&logo=github)]() |  |
+| [![Log Analyzer](https://img.shields.io/badge/Log_Analyzer-Jupyter_Lab-blue?style=for-the-badge&logo=jupyter)](https://github.com/CarineJackson1/log-anomaly-detector) |  |  |
 |:---:|:---:|:---:|
-| **Security Log Parsing**<br>Python, regex, visualization, SOC, incident response | **More Projects**<br>Stay tuned for future updates |  |
+| **Security Log Parsing**<br>Python, regex, visualization, SOC, incident response |  |  |
+
 ---
 
 ## 🛠 Tech Stack
