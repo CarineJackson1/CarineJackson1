@@ -1,5 +1,5 @@
 # Hi, I'm Carine 👋
-*Senior Cybersecurity Analyst | Cloud Security Architect | Incident Response Specialist*
+* Cybersecurity Analyst | Cloud Security | Incident Response Specialist*
 
 <div align="center">
 
@@ -14,18 +14,6 @@
 > **10+ Production-Ready Security Projects** | **Bilingual Technical Communication** | **Real-World Threat Response**
 
 I don't just study cybersecurity—I **build**, **deploy**, and **defend**. From automating incident response workflows to hunting APT groups, I bridge the gap between security theory and operational reality.
-
-```python
-class CarineJackson:
-    def __init__(self):
-        self.role = "Senior Cybersecurity Analyst"
-        self.languages = ["English", "Japanese", "Python", "PowerShell", "SQL"]
-        self.focus = ["Cloud Security", "Incident Response", "Threat Intelligence"]
-        self.superpower = "Turning complex security data into actionable insights"
-    
-    def current_mission(self):
-        return "Defending organizations through automation & threat intelligence"
-```
 
 ---
 
@@ -72,7 +60,7 @@ class CarineJackson:
 </td>
 <td width="50%">
 
-**🔍 [Advanced Log Anomaly Detector](https://github.com/CarineJackson1/log-anomaly-detector)**
+**🔍 [Log Anomaly Detector](https://github.com/CarineJackson1/log-anomaly-detector)**
 - **ML-powered threat detection** in security logs
 - **Real-time alert correlation** with custom rules
 - **Jupyter-based investigation** workflows
