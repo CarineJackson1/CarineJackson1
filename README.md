@@ -8,6 +8,8 @@ Cybersecurity & Data Analytics Professional | Bilingual (EN/JP) | Cloud-Native &
 
 I design secure cloud-native systems, strengthen incident response workflows, and defend against real-world threats through data-driven automation. With professional proficiency in English and Japanese, I bring a global perspective to cybersecurity and analytics.
 
+💡 I’ve built and showcased 10+ projects ranging from incident response playbooks and threat intelligence reports to SQL portfolios and automation tools.
+
 I’m passionate about:
 	•	🛡 Security automation & cloud hardening
 	•	📊 Turning data into actionable security insights
@@ -18,13 +20,13 @@ I’m passionate about:
 💼 Featured Projects
 
 		
-CI/CD Security ScansSemgrep, Bandit, Trivy, Gitleaks	Bug Bounty & Python ToolsRecon, scanners, fuzzers, brute-force, reporting	Phishing SimulationAwareness, campaigns, SOC playbooks
+CI/CD Security ScansSemgrep, Bandit, Trivy, Gitleaks	Bug Bounty & Python ToolsRecon, scanners, fuzzers, brute-force, reporting	Phishing SimulationAwareness, campaigns, incident investigation, SOC
 
 		
-Shields Up Incident ResponseTimeline, logs, Python scripts, NIST CSF	Threat Intelligence ReportAPT34, OSINT, IOCs, MITRE ATT&CK	AWS SecurityIAM, encryption, MFA, infrastructure hardening
+Shields Up Incident ResponseTimeline, logs, containment, Python scripts, NIST CSF	Threat Intelligence ReportAPT34, OSINT, IOCs, MITRE ATT&CK	AWS SecurityIAM, encryption, MFA, infrastructure hardening
 
 		
-Security Log AnalyzerRegex, anomaly detection, visualization	SQL ProjectsData modeling, queries, optimization	PDF ReaderPython, Tkinter, PyPDF2, text-to-speech
+Security Log ParsingPython, regex, visualization, SOC, incident response	SQL ProjectsDatabase design, queries, performance tuning	PDF-to-Speech ReaderReads PDFs aloud using Python (PyPDF2, Tkinter, pyttsx3)
 
 
 ⸻
@@ -53,6 +55,14 @@ Visualization & Productivity:
 
 ⸻
 
+🔨 In Progress
+
+
+SOC Environment (In Progress)Building a home lab with ELK stack, Splunk, and custom Python tools to simulate log collection, monitoring, and incident response.
+
+
+⸻
+
 📫 Connect With Me
 	•	LinkedIn
 	•	GitHub
@@ -61,6 +71,6 @@ Visualization & Productivity:
 
 ⸻
 
-✨ Thanks for stopping by! Feel free to explore my projects and reach out — I’m always open to collaboration and new opportunities.
+✨ Thanks for stopping by! Explore my projects, and feel free to reach out — I’m always open to collaboration and new opportunities.
 
 ⸻
