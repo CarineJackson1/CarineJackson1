@@ -58,16 +58,6 @@ I don't just study cybersecurity—I **build**, **deploy**, and **defend**. From
 *Technologies: GitHub Actions, Docker, Security Scanning*
 
 </td>
-<td width="50%">
-
-**🔍 [Log Anomaly Detector](https://github.com/CarineJackson1/log-anomaly-detector)**
-- **ML-powered threat detection** in security logs
-- **Real-time alert correlation** with custom rules
-- **Jupyter-based investigation** workflows
-
-*Technologies: Python, Jupyter, RegEx, ML, SIEM*
-
-</td>
 </tr>
 </table>
 
