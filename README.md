@@ -76,16 +76,6 @@ I don't just study cybersecurity—I **build**, **deploy**, and **defend**. From
 <tr>
 <td width="50%">
 
-**⚔️ [Ethical Hacking Arsenal](https://github.com/CarineJackson1/ethical-hacking-portfolio)**
-- **Custom reconnaissance tools** for bug bounty hunting
-- **Automated vulnerability scanners** with reporting
-- **Social engineering simulations** and awareness training
-
-*Technologies: Python, Burp Suite, Nmap, OWASP*
-
-</td>
-<td width="50%">
-
 **🎣 [Mastercard Phishing Campaign](https://github.com/CarineJackson1/mastercard-cybersecurity-virtual-experience)**
 - **Enterprise phishing simulation** with metrics
 - **Security awareness measurement** and training
