@@ -77,6 +77,13 @@ I don't just study cybersecurity—I **build**, **deploy**, and **defend**. From
 </tr>
 </table>
 
+### 📊 **Data Analytics**
+<table>
+<tr>
+<td width="50%">
+
+**📊 [Data Analytics](https://github.com/CarineJackson1/Data_Analytics)**
+
 ---
 
 ## 💻 **Technical Expertise**
