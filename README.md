@@ -182,7 +182,7 @@ I don't just study cybersecurity—I **build**, **deploy**, and **defend**. From
 
 *Let's discuss how my expertise in cybersecurity, automation, and cross-cultural communication can strengthen your security posture.*
 
-**Available for:** *Senior Security Analyst • Cloud Security Architect • Incident Response Lead • Security Consultant*
+**Available for:** * Junior Security Analyst • Cloud Security Analyst • Incident Response Lead • Security Consultant*
 
 </div>
 
