@@ -1,176 +1,150 @@
 # Hi, I'm Carine 👋
-* Cybersecurity Analyst | Cloud Security | Incident Response Specialist*
+**Data Analyst | AI Security Researcher | Building Fair Technology**
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Cybersecurity+%26+Data+Analytics+Pro;Bilingual+(EN%2FJP)+Security+Expert;Cloud+Native+Security+Architect;Threat+Hunter+%26+IR+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Security;Equity+in+Tech;Research-Driven+Problem+Solving;Bilingual+(EN%2FJP)+Technical+Communication)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎯 **What Makes Me Different**
+## 🎯 What I Do
 
-> **10+ Production-Ready Security Projects** | **Bilingual Technical Communication** | **Real-World Threat Response**
+I explore **where AI systems fail—and who gets harmed**. By combining data analysis, security thinking, and an equity lens, I identify vulnerabilities that traditional testing misses.
 
-I don't just study cybersecurity—I **build**, **deploy**, and **defend**. From automating incident response workflows to hunting APT groups, I bridge the gap between security theory and operational reality.
-
----
-
-## 🏆 **Featured Security Arsenal**
-
-### 🚨 **Critical Infrastructure Protection**
-<table>
-<tr>
-<td width="50%">
-
-**🛡️ [Shields Up Incident Response](https://github.com/CarineJackson1/-Shields-Up-Incident-Investigation-Response-Risk-Assessment)**
-- **Real ransomware investigation** with full timeline reconstruction
-- **NIST CSF compliance** + Python automation scripts
-- **Live containment strategies** tested in production
-
-*Technologies: Python, NIST Framework, Log Analysis, Containment*
-
-</td>
-<td width="50%">
-
-**🎯 [APT34 Threat Intelligence](https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting)**
-- **OSINT-driven threat profiling** of Iranian APT group
-- **MITRE ATT&CK mapping** with custom IOC database
-- **Actionable intelligence reports** for SOC teams
-
-*Technologies: OSINT, MITRE ATT&CK, Threat Modeling*
-
-</td>
-</tr>
-</table>
-
-### ⚡ **Security Automation & DevSecOps**
-<table>
-<tr>
-<td width="50%">
-
-**🔒 [AstroSkill Security Pipeline](https://github.com/CarineJackson1/astroskill-lms-connector)**
-- **Automated CI/CD security scans** (Semgrep, Bandit, Trivy)
-- **Zero-trust deployment** with vulnerability gates
-- **Secret detection** preventing credential leaks
-
-*Technologies: GitHub Actions, Docker, Security Scanning*
-
-</td>
-</tr>
-</table>
-
-### 🎭 **Offensive Security & Red Team**
-<table>
-<tr>
-<td width="50%">
-
-**🎣 [Mastercard Phishing Campaign](https://github.com/CarineJackson1/mastercard-cybersecurity-virtual-experience)**
-- **Enterprise phishing simulation** with metrics
-- **Security awareness measurement** and training
-- **Incident response coordination** for SOC
-
-*Technologies: Social Engineering, Awareness Training, SOC*
-
-</td>
-</tr>
-</table>
-
-### 📊 **Data Analytics**
-<table>
-<tr>
-<td width="50%">
-
-**📊 [Data Analytics](https://github.com/CarineJackson1/Data_Analytics)**
-
-
-
+**My angle:** Most AI safety testing comes from security experts thinking like attackers. I test differently—from the perspective of real people with diverse communication styles, backgrounds, and needs.
 
 ---
 
-## 💻 **Technical Expertise**
+## 🔬 Current Research & Projects
+
+### 🚨 **AI Communication Patterns & Security Vulnerabilities** ⭐ FEATURED
+**Research Project** | *In Progress*
+
+Testing how AI assistants respond to diverse communication styles and identifying security gaps.
+
+**What I'm investigating:**
+- How fragmented/non-linear prompts interact with AI safety mechanisms
+- Which communication patterns (ADHD, autism, anxiety) reveal vulnerabilities
+- Whether edge cases from underrepresented users bypass safety guidelines
+
+**Methods:**
+- Systematic testing across multiple AI tools (ChatGPT, Claude, Gemini, etc.)
+- Data collection and analysis using Python, pandas, statistical methods
+- Vulnerability assessment and reproducibility testing
+- Creating visualizations and security findings documentation
+
+**Why it matters:**
+Reveals security gaps in AI systems that affect real users—not just theoretical attackers. This research bridges AI ethics, cybersecurity, and accessibility.
+
+**Tech Stack:** Python • Pandas • Data Visualization • Statistical Analysis • Research Methodology
+
+**Status:** Testing phase → Analysis phase → Publishing findings (Timeline: 6-8 weeks)
+
+[**View Project Repository →**](https://github.com/CarineJackson1/AI-Communication-Security-Research)
+
+---
+
+## 💡 Key Skills & Technical Toolkit
 
 <div align="center">
 
-### **Security & Incident Response**
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Advanced-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-Professional-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE_ATT&CK-Certified-FF6B6B?style=for-the-badge&logo=mitre&logoColor=white)
+### **Data Science & Analysis**
+![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Query_%26_Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib/Seaborn](https://img.shields.io/badge/Data_Visualization-Matplotlib_Seaborn-11557C?style=for-the-badge)
 
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Container_Security-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-System_Hardening-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### **Security & Research**
+![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-MITRE_ATT%26CK-FF6B6B?style=for-the-badge)
+![Research Methodology](https://img.shields.io/badge/Research_Methodology-Systematic_Testing-4CAF50?style=for-the-badge)
+![SIEM Concepts](https://img.shields.io/badge/SIEM_Concepts-Log_Analysis-000000?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-Fundamentals-FF9800?style=for-the-badge)
 
-### **Offensive Security**
-![Burp](https://img.shields.io/badge/Burp_Suite-Web_App_Testing-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Network_Discovery-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-Top_10_Expert-000000?style=for-the-badge&logo=owasp&logoColor=white)
+### **Developer Tools**
+![Git/GitHub](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 **Security Impact Dashboard**
+## 📚 Learning & Development
 
-<div align="center">
+**Currently Building:**
+- 🎓 Data Science fundamentals (Python, statistics, EDA)
+- 🔐 Cybersecurity foundations (Security+, SIEM tools, threat intelligence)
+- 🤖 AI Ethics & Bias Detection (fairness metrics, explainable AI)
+- 🎯 Research methodology and technical communication
 
-| 🎯 **Metric** | 📈 **Achievement** | 🏆 **Impact** |
-|:---:|:---:|:---:|
-| **Security Projects** | 10+ Production Ready | 100% Open Source |
-| **Incident Response** | <4 Hour MTTR | 99.9% Uptime Maintained |
-| **Threat Detection** | 95%+ Accuracy | Zero False Positives |
-| **Automation Scripts** | 50+ Custom Tools | 80% Manual Task Reduction |
-| **Languages** | English + Japanese | Global Team Collaboration |
-
-</div>
-
----
-
-## 🌟 **What Recruiters Say**
-
-<div align="center">
-
-*"Carine's portfolio demonstrates real-world security expertise that goes beyond certifications"*
-
-*"The combination of technical depth and bilingual communication skills is exactly what we need"*
-
-*"Her incident response documentation could be used as training material for our SOC team"*
-
-</div>
+**Structured Learning:**
+- Google Cybersecurity Certificate *(in progress)*
+- Udemy: Data Science, Pandas, 100 Days of Python
+- TryHackMe: Security Analyst learning path
+- CompTIA Security+ *(in progress)*
 
 ---
 
-## 🚀 **Current Focus**
+## 🌟 What Makes Me Different
 
-- 🔍 **Advanced Threat Hunting** with custom YARA rules and IOC development
-- ☁️ **Cloud Security Architecture** for zero-trust environments
-- 🤖 **AI-Powered Security Automation** using machine learning for threat detection
-- 🌏 **Cross-Cultural Security** bridging Japanese and Western security practices
+✨ **Unique Perspective**
+- Black woman + neurodivergent professional bringing equity lens to technical work
+- Understanding of how diverse communication styles and needs interact with AI systems
+- Focus on revealing vulnerabilities that affect underrepresented users
+
+🔍 **Research-Driven Approach**
+- Systematic methodology, rigorous testing, documented findings
+- Asking "who does this harm?" not just "does it work?"
+- Combining data science + security + accessibility thinking
+
+💪 **Real-World Impact**
+- Building projects that address genuine gaps in AI safety and fairness
+- Technical skills grounded in problem-solving, not just coursework
+- Commitment to responsible innovation
 
 ---
 
-## 📈 **GitHub Analytics**
+## 📊 Projects at a Glance
 
-<div align="center">
-
-![Carine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarineJackson1&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarineJackson1&layout=compact&theme=radical&hide_border=true)
-
-</div>
+| Project | Focus | Status | Technologies |
+|---------|-------|--------|---------------|
+| **AI Communication Security Research** | AI Safety, Equity, Data Analysis | 🔄 In Progress | Python, Pandas, Statistical Analysis |
+| **Building Soon** | Data Analysis for Social Impact | 📋 Planned | Python, SQL, Visualization |
+| **Building Soon** | Threat Intelligence Dashboard | 📋 Planned | Data Analysis, SIEM Concepts |
 
 ---
 
-## 🎯 **Quick Access**
+## 🚀 What's Next
+
+- 📊 Complete AI communication research & publish findings (Medium, GitHub)
+- 🔍 Build data analysis portfolio project for nonprofit/social impact org
+- 📈 Create threat intelligence visualization dashboard
+- ✍️ Document learnings through technical writing and blog posts
+
+---
+
+## 💼 Open To
+
+- **Data Analyst** roles at mission-driven organizations
+- **Security Data Analyst** positions
+- **AI Safety Research** opportunities
+- **Junior Security Analyst** roles with growth trajectory
+- Teams building equitable, transparent, responsible technology
+
+---
+
+## 🌍 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🔗_Full_Portfolio-Visit_Now-00D4AA?style=for-the-badge)](https://github.com/CarineJackson1)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-FF6B6B?style=for-the-badge)](https://github.com/CarineJackson1/CarineJackson1/blob/main/resume/CyberSecurity%20Analyst.pdf)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carinejackson)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carinejackson48@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carinejackson)
+[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carinejackson48@gmail.com)
+[![GitHub](https://img.shields.io/badge/🔗_GitHub-View_All_Projects-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarineJackson1)
+
+**Interested in:** Data analysis • AI safety • cybersecurity • equity in tech • research collaboration
 
 </div>
 
@@ -178,16 +152,8 @@ I don't just study cybersecurity—I **build**, **deploy**, and **defend**. From
 
 <div align="center">
 
-### 🌟 **Ready to Secure Your Organization?**
+### 🔬 **Research-Driven. Equity-Focused. Building Fair Technology.**
 
-*Let's discuss how my expertise in cybersecurity, automation, and cross-cultural communication can strengthen your security posture.*
+*"Who benefits? Who's harmed? How do we build better?"*
 
-**Available for:** * Junior Security Analyst • Cloud Security Analyst • Incident Response Lead • Security Consultant*
-
-</div>
-
----
-
-<div align="center">
-<i>🛡️ Protecting digital assets through innovation, automation, and expertise 🛡️</i>
 </div>
