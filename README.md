@@ -123,9 +123,7 @@ Real-world database analysis across retail, entertainment, and business intellig
 
 **Structured Coursework:**
 - CompTIA Security+ (in progress)
-- Google Cybersecurity Certificate (in progress)
-- Udemy: Data Science, Pandas, Python
-- TryHackMe: Security Analyst learning path
+- Data Science, Pandas, Python
 
 ---
 
