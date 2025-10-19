@@ -13,82 +13,81 @@
 
 I bridge **data science, cybersecurity, and AI ethics**—exploring where systems fail and who gets harmed. By combining security thinking, data analysis, and an equity lens, I identify vulnerabilities that traditional testing misses.
 
-**My angle:** Most AI safety testing comes from security experts thinking like attackers. I test differently—from the perspective of real people with diverse communication styles, backgrounds, and needs. In cybersecurity, I focus on building automated, resilient defenses and understanding threat landscapes through data.
+**My approach:** Most AI safety testing comes from security experts thinking like attackers. I test differently—from the perspective of real people with diverse communication styles, backgrounds, and needs. In cybersecurity, I focus on building automated, resilient defenses and understanding threat landscapes through data.
 
 ---
 
-## 🔬 Current & Featured Projects
+## 🔬 Featured Research
 
-### ⭐ **AI Communication Patterns & Security Vulnerabilities** [FEATURED]
+### ⭐ **AI Communication Patterns & Security Vulnerabilities**
 **Research Project** | *In Progress*
 
 Testing how AI assistants respond to diverse communication styles and identifying security gaps that affect real users.
 
-**What I'm investigating:**
-- How fragmented/non-linear prompts interact with AI safety mechanisms
-- Which communication patterns (ADHD, autism, anxiety) reveal vulnerabilities
-- Whether edge cases from underrepresented users bypass safety guidelines
+**Research Questions:**
+- How do fragmented/non-linear prompts interact with AI safety mechanisms?
+- Which communication patterns (ADHD, autism, anxiety) reveal vulnerabilities?
+- Do edge cases from underrepresented users bypass safety guidelines?
 
-**Why it matters:** Reveals security gaps in AI systems that traditional adversarial testing misses—especially those affecting underrepresented communities.
+**Why It Matters:** Reveals security gaps in AI systems that traditional adversarial testing misses—especially those affecting underrepresented communities.
 
-**Tech Stack:** Python • Pandas • Data Visualization • Statistical Analysis • Research Methodology
+**Methods:** Systematic testing across ChatGPT, Claude, Gemini, Copilot using Python data analysis and statistical measurement.
 
-**Status:** Testing phase → Analysis phase → Publishing findings
+**Status:** Testing phase → Data analysis → Publishing findings
 
-[**View AI Security Research Repository →**](https://github.com/CarineJackson1/AI-Communication-Security-Research)
+[**View Research →**](https://github.com/CarineJackson1/AI-Communication-Security-Research)
 
 ---
 
-## 🛡️ Cybersecurity & Automation Projects
+## 🛡️ Security Projects
 
-### 🚨 **Shields Up Incident Response**
-Real ransomware investigation with full timeline reconstruction, NIST CSF compliance, and Python automation scripts for containment strategies.
+### **Shields Up: Incident Response & Risk Assessment**
+Comprehensive ransomware incident investigation with NIST CSF alignment, threat intelligence research (APT34), and executive risk reporting.
 
-**Technologies:** Python, NIST Framework, Log Analysis, Incident Response, Automation
+**Includes:** Incident timeline reconstruction, recovery procedures, threat intelligence analysis, risk matrices, executive summaries.
 
 [**View Project →**](https://github.com/CarineJackson1/-Shields-Up-Incident-Investigation-Response-Risk-Assessment)
 
 ---
 
-### 🎯 **APT34 Threat Intelligence**
-OSINT-driven threat profiling of Iranian APT group with MITRE ATT&CK mapping, custom IOC database, and actionable intelligence reports for SOC teams.
+### **Security Automation & Operations**
 
-**Technologies:** OSINT, MITRE ATT&CK, Threat Modeling, Intelligence Reporting
+**AstroSkill Security Pipeline** — CI/CD security automation (GitHub Actions, Docker, vulnerability scanning)
 
-[**View Project →**](https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting)
+**APT34 Threat Intelligence** — OSINT-driven threat profiling with MITRE ATT&CK mapping
 
----
+**Mastercard Security Awareness** — Phishing campaign design and training effectiveness measurement
 
-### 🔒 **AstroSkill Security Pipeline**
-Automated CI/CD security scans (Semgrep, Bandit, Trivy), zero-trust deployment with vulnerability gates, and secret detection preventing credential leaks.
-
-**Technologies:** GitHub Actions, Docker, Security Scanning, Automation, DevSecOps
-
-[**View Project →**](https://github.com/CarineJackson1/astroskill-lms-connector)
+[**View Security Projects →**](https://github.com/CarineJackson1?tab=repositories&q=security)
 
 ---
 
-### 🎣 **Mastercard Phishing Campaign**
-Enterprise phishing simulation with metrics, security awareness measurement, training coordination, and SOC incident response workflows.
+## 📊 Data Analytics & SQL
 
-**Technologies:** Social Engineering Assessment, Security Awareness, Incident Response
+### **SQL Portfolio**
+Real-world database analysis across retail, entertainment, and business intelligence domains.
 
-[**View Project →**](https://github.com/CarineJackson1/mastercard-cybersecurity-virtual-experience)
+**Projects:**
+- Customer & Order Analytics (segmentation, trends, retention)
+- Netflix Database (content performance, viewer engagement)
+- Superstore Database (regional profitability, margin analysis)
 
----
+**Technologies:** PostgreSQL, MySQL, complex joins, window functions, CTEs, query optimization
 
-## 📊 Data Analytics & Visualization
-
-### **Data Analytics Portfolio**
-Building data analysis projects focused on extracting insights, visualizing patterns, and communicating findings.
-
-**Technologies:** Python, SQL, Pandas, Matplotlib, Seaborn, Data Visualization
-
-[**View Repository →**](https://github.com/CarineJackson1/Data_Analytics)
+[**View SQL Projects →**](https://github.com/CarineJackson1/SQL-Portfolio)
 
 ---
 
-## 💡 Technical Expertise
+### **Python & Data Tools**
+
+**PDF Reader** — Text extraction and text-to-speech conversion tool  
+**Data Analytics** — Exploratory data analysis and visualization projects
+
+[**View Python Projects →**](https://github.com/CarineJackson1/Python-Projects)
+
+---
+
+## 💡 Technical Skills
 
 <div align="center">
 
@@ -99,109 +98,75 @@ Building data analysis projects focused on extracting insights, visualizing patt
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-Matplotlib_Seaborn-11557C?style=for-the-badge)
 
 ### **Security & Incident Response**
-![Splunk](https://img.shields.io/badge/Splunk-SIEM_Monitoring-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-Threat_Modeling-FF6B6B?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Threat_Modeling-FF6B6B?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-NIST_CSF-FF9800?style=for-the-badge)
 ![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-Investigation-4CAF50?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident_Response-Automation-FF9800?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-Reconnaissance-0078D4?style=for-the-badge)
 
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-Solutions-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Container_Security-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-System_Hardening-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **Developer & Security Tools**
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Advanced-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### **Developer Tools**
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **Security & Testing**
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Testing-FF6633?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-Network_Discovery-4682B4?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-Top_10-000000?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-Vulnerability_Scanning-004B97?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containers-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
-## 📚 Learning & Development
+## 🎓 Learning & Growth
 
 **Currently Building:**
-- 🔬 AI Ethics & bias detection (fairness metrics, explainable AI)
-- 📊 Data Science fundamentals (Python, statistics, EDA)
-- 🔐 Cybersecurity foundations (Security+, SIEM tools, threat intelligence)
-- 🎯 Research methodology and technical communication
+- AI ethics & bias detection (fairness metrics, explainable AI)
+- Cybersecurity fundamentals (Security+, threat intelligence)
+- Advanced data science (statistical analysis, modeling)
+- Research methodology and technical communication
 
-**Structured Learning:**
-- CompTIA Security+ *(in progress)*
-- Google Cybersecurity Certificate *(in progress)*
-- Udemy: Data Science, Pandas, 100 Days of Python
+**Structured Coursework:**
+- CompTIA Security+ (in progress)
+- Google Cybersecurity Certificate (in progress)
+- Udemy: Data Science, Pandas, Python
 - TryHackMe: Security Analyst learning path
 
 ---
 
-## 🌟 What Makes Me Different
+## 🌟 What Sets Me Apart
 
-✨ **Unique Perspective**
+**Perspective:**
 - Black woman + neurodivergent professional bringing equity lens to technical work
-- Understanding of how diverse communication styles and needs interact with technology
-- Focus on revealing vulnerabilities that affect underrepresented users
+- Deep understanding of how diverse communication styles interact with technology
+- Focus on vulnerabilities affecting underrepresented users
 
-🔍 **Research & Security-Driven Approach**
-- Systematic methodology, rigorous testing, documented findings
-- Combining data science + cybersecurity + accessibility thinking
-- Asking "who does this harm?" not just "does it work?"
+**Approach:**
+- Systematic, rigorous methodology with documented findings
+- Combining data science + cybersecurity + accessibility
+- Asking "who does this harm?" alongside "does it work?"
 
-💪 **Real-World Technical Impact**
-- Building projects that address genuine gaps in AI safety, security, and fairness
-- Automation and threat detection expertise grounded in problem-solving
-- Commitment to responsible innovation and equitable technology
-
----
-
-## 📊 Projects Overview
-
-| Project | Focus | Technologies | Status |
-|---------|-------|---------------|--------|
-| **AI Communication Security Research** | AI Safety, Data Analysis, Equity | Python, Pandas, Statistical Analysis | 🔄 In Progress |
-| **Shields Up Incident Response** | Ransomware Investigation, NIST CSF | Python, Log Analysis, Automation | ✅ Complete |
-| **APT34 Threat Intelligence** | OSINT, Threat Modeling, MITRE ATT&CK | OSINT Tools, MITRE Framework | ✅ Complete |
-| **AstroSkill Security Pipeline** | CI/CD Security, DevSecOps, Automation | GitHub Actions, Docker, Scanning | ✅ Complete |
-| **Mastercard Phishing Campaign** | Security Awareness, Incident Response | Social Engineering, SOC Training | ✅ Complete |
+**Impact:**
+- Projects that address real gaps in AI safety, security, and equity
+- Problem-solving grounded in practical applications
+- Commitment to responsible, equitable innovation
 
 ---
 
-## 🚀 What's Next
+## 💼 Roles I'm Pursuing
 
-- 📊 Complete AI communication research & publish findings (Medium, GitHub)
-- 🔍 Build advanced threat hunting and detection projects
-- 🌐 Deploy cloud-native security architecture for zero-trust environments
-- 📈 Create security data analysis dashboards and visualizations
-- ✍️ Document learnings through technical writing and research articles
-
----
-
-## 💼 Open To
-
-- **Data Analyst** roles (mission-driven organizations)
-- **Security Data Analyst** positions
-- **SOC Analyst Level 1** roles with growth trajectory
-- **AI Safety Research** opportunities
-- **Junior Security Analyst** positions
-- Teams building equitable, transparent, responsible technology
+- Data Analyst (mission-driven organizations, nonprofits, social impact)
+- Security Data Analyst
+- SOC Analyst Level 1 (with growth potential)
+- AI Safety Research opportunities
+- Junior Security Analyst
 
 ---
 
-## 🌍 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carinejackson)
-[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carinejackson48@gmail.com)
-[![GitHub](https://img.shields.io/badge/🔗_GitHub-View_All_Projects-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarineJackson1)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carinejackson)
+[![Email](https://img.shields.io/badge/📧_Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carinejackson48@gmail.com)
+[![GitHub](https://img.shields.io/badge/🔗_GitHub-View_Projects-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarineJackson1)
 
-**Interested in:** Data analysis • AI safety • cybersecurity • threat intelligence • equity in tech • research collaboration
+Interested in: Data analysis • AI safety • Cybersecurity • Research • Equity in tech
 
 </div>
 
@@ -209,8 +174,8 @@ Building data analysis projects focused on extracting insights, visualizing patt
 
 <div align="center">
 
-### 🔬 🛡️ **Research-Driven. Security-Focused. Equity-Centered.**
+**Research-Driven. Security-Focused. Equity-Centered.**
 
-*Building fair, transparent, and secure technology through data, research, and rigorous thinking.*
+Building fair, transparent, and secure technology through rigorous thinking and analysis.
 
 </div>
